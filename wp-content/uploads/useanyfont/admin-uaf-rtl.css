@@ -1,0 +1,10 @@
+			@font-face {
+				font-family: 'opensans-regular';
+				font-style: normal;
+				src: url('/projects/site/wp-content/uploads/useanyfont/190126011840OpenSans-Regular.eot');
+				src: local('opensans-regular'), url('/projects/site/wp-content/uploads/useanyfont/190126011840OpenSans-Regular.eot') format('embedded-opentype'), url('/projects/site/wp-content/uploads/useanyfont/190126011840OpenSans-Regular.woff') format('woff');
+			}
+            
+            .et_gf_opensans-regular{background:none !important;font-family:opensans-regular;text-indent:0 !important;font-size:25px;}
+            
+		

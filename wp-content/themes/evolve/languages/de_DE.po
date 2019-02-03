@@ -1,0 +1,5167 @@
+# Translation of Themes - evolve in German
+# This file is distributed under the same license as the Themes - evolve package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-11-19 10:10+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Language: de_DE\n"
+"Project-Id-Version: Themes - evolve\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-11-19 10:09+0000\n"
+"Last-Translator: admin <senditme@centrum.sk>\n"
+"Language-Team: German"
+
+#: 404.php:31
+msgid "Yay! 404 Not Found"
+msgstr "Yay! 404 nicht gefunden"
+
+#: 404.php:33 template-parts/post/content-none.php:19
+msgid ""
+"Sorry, but you are looking for something that isn't here or it's been moved. "
+"Try a search?"
+msgstr ""
+"Sorry, aber Sie sind auf der Suche nach etwas, das nicht hier oder es ist "
+"verschoben worden. Versuchen Sie eine Suche?"
+
+#: comments.php:8
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Dieser Beitrag ist passwortgeschützt. Sie müssen das richtige Passwort "
+"eingeben, um Kommentare sehen zu können."
+
+#: comments.php:54 inc/comments.php:38
+msgid "No Comments Yet"
+msgstr "Noch keine Kommentare"
+
+#: comments.php:70
+msgid "Comments are closed"
+msgstr "Die Kommentarfunktion ist geschlossen"
+
+#: functions.php:76
+#, php-format
+msgid "Page %s"
+msgstr "Seite %s"
+
+#: functions.php:118
+msgid "Primary Menu"
+msgstr "Hauptmenü"
+
+#: functions.php:119
+msgid "Sticky Header Menu"
+msgstr "Oben gehaltenes Headermenü"
+
+#: functions.php:420
+msgid "You reached the end"
+msgstr "Ende erreicht"
+
+#: functions.php:421
+msgid "Load more items"
+msgstr "Weitere Inhalte laden"
+
+#: functions.php:514 inc/template-tags.php:1014
+#: template-parts/post/content-post.php:66
+msgid "Read More"
+msgstr "Weiterlesen"
+
+#: functions.php:529
+msgid "To view this protected content, enter the password below"
+msgstr "Bitte geben Sie das Passwort ein, um diese Seite aufzurufen"
+
+#: functions.php:530
+msgid "Password:"
+msgstr "Passwort:"
+
+#: functions.php:530 bbpress/form-reply-move.php:77 bbpress/form-reply.php:179
+#: bbpress/form-topic-merge.php:106 bbpress/form-topic-split.php:111
+#: bbpress/form-topic.php:251 woocommerce/single-product-reviews.php:76
+msgid "Submit"
+msgstr "Senden"
+
+#: header.php:19
+msgid "Skip to main content"
+msgstr "Zum Hauptinhalt springen"
+
+#: search.php:25
+#, php-format
+msgid "Search results for %s"
+msgstr "Suchergebnis für %s"
+
+#: search.php:31
+#, php-format
+msgid "Your search for %s didn't match any entries"
+msgstr "Bei Ihrer Suche wurden keine Übereinstimmungen bezogen auf %s gefunden"
+
+#: search.php:65 woocommerce/loop/no-products-found.php:29
+msgid "Suggestions"
+msgstr "Vorschläge"
+
+#: search.php:67 woocommerce/loop/no-products-found.php:31
+msgid "Make sure all words are spelled correctly."
+msgstr "Stellen Sie sicher, dass alle Wörter richtig geschrieben sind."
+
+#: search.php:68 woocommerce/loop/no-products-found.php:32
+msgid "Try different keywords."
+msgstr "Versuchen Sie andere Suchbegriffe."
+
+#: search.php:69 woocommerce/loop/no-products-found.php:33
+msgid "Try more general keywords."
+msgstr "Versuchen Sie allgemeinere Suchbegriffe."
+
+#: searchform.php:12 inc/template-tags.php:88
+msgid "Type your search"
+msgstr "Suchbegriff eingeben"
+
+#: bbpress/content-archive-forum.php:15 bbpress/content-single-forum.php:15
+#: bbpress/content-single-topic-lead.php:37
+msgid "Subscribe"
+msgstr "Abonnieren"
+
+#: bbpress/content-archive-forum.php:16 bbpress/content-single-forum.php:16
+#: bbpress/content-single-topic-lead.php:38
+msgid "Subscribed"
+msgstr "Abonniert"
+
+#: bbpress/content-single-topic-lead.php:15
+msgid "Open"
+msgstr "Beginn"
+
+#: bbpress/content-single-topic-lead.php:17
+msgid "Closed"
+msgstr "Geschlossen"
+
+#: bbpress/content-single-topic-lead.php:20
+msgid "Pinned"
+msgstr "Angepinnt"
+
+#: bbpress/content-single-topic-lead.php:31
+msgid "Favorite"
+msgstr "Favoriten"
+
+#: bbpress/content-single-topic-lead.php:32
+msgid "Favorited"
+msgstr "Favorisiert"
+
+#: bbpress/content-statistics.php:17
+msgid "Registered Users"
+msgstr "Registrierte Benutzer"
+
+#: bbpress/content-statistics.php:22
+msgid "Forums"
+msgstr "Foren"
+
+#: bbpress/content-statistics.php:27 bbpress/loop-forums.php:16
+msgid "Topics"
+msgstr "Themen"
+
+#: bbpress/content-statistics.php:32 bbpress/loop-forums.php:17
+#: bbpress/loop-topics.php:18
+msgid "Replies"
+msgstr "Antworten"
+
+#: bbpress/content-statistics.php:37
+msgid "Topic Tags"
+msgstr "Themen Schlagwörter"
+
+#: bbpress/content-statistics.php:44
+msgid "Empty Topic Tags"
+msgstr "Ungenutzte Themen-Schlagwörter"
+
+#: bbpress/content-statistics.php:53
+msgid "Hidden Topics"
+msgstr "Versteckte Themen"
+
+#: bbpress/content-statistics.php:64
+msgid "Hidden Replies"
+msgstr "Versteckte Antworten"
+
+#: bbpress/form-anonymous.php:19
+msgid "Your email address will not be published. Required fields are marked *"
+msgstr ""
+"Ihre E-Mail-Adresse wird nicht veröffentlicht. Pflichtfelder sind mit * "
+"gekennzeichnet*"
+
+#: bbpress/form-anonymous.php:23
+msgid "Name*"
+msgstr "Name*"
+
+#: bbpress/form-anonymous.php:29
+msgid "Email*"
+msgstr "E-Mail*"
+
+#: bbpress/form-anonymous.php:35 bbpress/form-user-edit.php:79
+#: inc/comments.php:245
+msgid "Website"
+msgstr "Website"
+
+#: bbpress/form-reply-move.php:18
+#, php-format
+msgid "Move reply \"%s\""
+msgstr "Antwort \"%s\" verschieben"
+
+#: bbpress/form-reply-move.php:21
+msgid ""
+"You can either make this reply a new topic with a new title, or merge it "
+"into an existing topic"
+msgstr ""
+"Sie können aus dieser Antwort entweder ein neues Thema mit einem neuen Titel "
+"machen oder es mit einem bereits existierenden Thema zusammenführen"
+
+#: bbpress/form-reply-move.php:25
+msgid ""
+"If you choose an existing topic, replies will be ordered by the time and "
+"date they were created"
+msgstr ""
+"Wenn Sie ein bereits existierendes Thema wählen, werden die Antworten nach "
+"Datum und Zeit sortiert, nach denen sie erstellt wurden"
+
+#: bbpress/form-reply-move.php:28
+msgid "Move method"
+msgstr "Verschiebe-Methode"
+
+#: bbpress/form-reply-move.php:35 bbpress/form-topic-split.php:33
+#, php-format
+msgid "New topic in <strong>%s</strong> titled:"
+msgstr "Neuer Beitrag in <strong>%s</strong> mit dem Titel:"
+
+#: bbpress/form-reply-move.php:39
+#, php-format
+msgid "Moved: %s"
+msgstr "Verschoben %s"
+
+#: bbpress/form-reply-move.php:55 bbpress/form-topic-split.php:53
+msgid "Use an existing topic in this forum:"
+msgstr "Bestehendes Thema in diesem Forum verwenden:"
+
+#: bbpress/form-reply-move.php:65 bbpress/form-topic-split.php:64
+msgid "No other topics found!"
+msgstr "Keine anderen Themen gefunden!"
+
+#: bbpress/form-reply-move.php:71 bbpress/form-topic-merge.php:100
+#: bbpress/form-topic-split.php:105
+msgid "<strong>WARNING:</strong> This process cannot be undone"
+msgstr ""
+"<strong>ACHTUNG:</strong> Dieser Prozess kann nicht rückgängig gemacht werden"
+
+#: bbpress/form-reply-move.php:88
+msgid "You do not have the permissions to edit this reply!"
+msgstr "Sie sind nicht berechtigt, diese Antwort zu bearbeiten!"
+
+#: bbpress/form-reply-move.php:88
+msgid "You cannot edit this reply"
+msgstr "Diese Antwort kann nicht bearbeitet werden"
+
+#: bbpress/form-reply.php:23
+#, php-format
+msgid "Now editing reply to %s"
+msgstr "Antwort auf %s jetzt bearbeiten"
+
+#: bbpress/form-reply.php:25
+#, php-format
+msgid "Reply to %s"
+msgstr "Antwort zu %s"
+
+#: bbpress/form-reply.php:38
+msgid ""
+"This topic is marked as closed to new replies, however your posting "
+"capabilities still allow you to do so"
+msgstr ""
+"Dieses Thema wurde für neue Antworten gesperrt. Dennoch können Sie aufgrund "
+"Ihrer Berechtigungen auf dieses Thema antworten"
+
+#: bbpress/form-reply.php:65 bbpress/form-topic.php:80
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes:"
+msgstr ""
+"Sie können folgende <abbr title=\"HyperText Markup Language\">HTML</abbr> "
+"Schlagwörter und Attribute verwenden:"
+
+#: bbpress/form-reply.php:80 bbpress/form-topic.php:95
+msgid "Your account has the ability to post unrestricted HTML content"
+msgstr ""
+"Ihr Konto hat die Berechtigung, uneingeschränkte HTML-Inhalte zu verfassen"
+
+#: bbpress/form-reply.php:92 bbpress/form-topic.php:107
+msgid "Tags"
+msgstr "Schlagwörter"
+
+#: bbpress/form-reply.php:115 bbpress/form-topic.php:190
+msgid "Keep a log of this edit"
+msgstr "Ein Protokoll über die Änderungen führen"
+
+#: bbpress/form-reply.php:122 bbpress/form-topic.php:197
+msgid "Optional reason for editing"
+msgstr "Optional: Grund für die Bearbeitung"
+
+#: bbpress/form-reply.php:148 bbpress/form-topic.php:223
+msgid "Notify the author of follow-up replies via email"
+msgstr ""
+"Den Autor/ die Autorin via E-Mail über eingehende Antworten informieren"
+
+#: bbpress/form-reply.php:156 bbpress/form-topic.php:231
+msgid "Notify me of follow-up replies via email"
+msgstr "Ja, ich möchte bei Antworten per E-Mail benachrichtigt werden"
+
+#: bbpress/form-reply.php:198
+#, php-format
+msgid "The topic <b>%s</b> is closed to new replies"
+msgstr "Das Thema <b>%s</b> ist für neue Beiträge geschlossen"
+
+#: bbpress/form-reply.php:203
+#, php-format
+msgid "The forum <b>%s</b> is closed to new topics and replies"
+msgstr "Das Forum <b>%s</b> ist für neue Themen und Antworten geschlossen"
+
+#: bbpress/form-reply.php:208
+msgid "You cannot reply to this topic"
+msgstr "Sie können auf dieses Thema nicht antworten"
+
+#: bbpress/form-reply.php:208
+msgid "You must be logged in to reply to this topic"
+msgstr "Sie müssen angemeldet sein, um auf dieses Thema zu antworten"
+
+#: bbpress/form-search.php:15
+msgid "Search forum"
+msgstr "Forum durchsuchen"
+
+#: bbpress/form-topic-merge.php:17
+#, php-format
+msgid "Merge topic \"%s\""
+msgstr "Thema zusammenführen „%s“"
+
+#: bbpress/form-topic-merge.php:21
+msgid ""
+"Select the topic to merge this one into. The destination topic will remain "
+"the lead topic, and this one will change into a reply."
+msgstr ""
+"Wählen Sie das Thema, um dieses zusammenzuführen. Das Zielthema wird das "
+"Haupt-Thema bleiben und dieses wird zur Antwort geändert."
+
+#: bbpress/form-topic-merge.php:22
+msgid ""
+"To keep this topic as the lead, go to the other topic and use the merge tool "
+"from there instead."
+msgstr ""
+"Um dieses Thema als Hauptbeitrag zu erhalten, wählen Sie ein anderes Thema "
+"und verwenden Sie das Zusammenführen-Werkzeug von dort aus."
+
+#: bbpress/form-topic-merge.php:26
+msgid ""
+"All replies within both topics will be merged chronologically. The order of "
+"the merged replies is based on the time and date they were posted. If the "
+"destination topic was created after this one, it's post date will be updated "
+"to second earlier than this one."
+msgstr ""
+"Alle Antworten zu beiden Themen werden chronologisch zusammengeführt. Die "
+"Reihenfolge der zusammengeführten Antworten basiert auf dem jeweiligen "
+"Veröffentlichungszeitpunkt. Falls das Zielthema nach diesem erstellt wurde, "
+"wird sein Veröffentlichungszeitpunkt auf den früheren Zeitpunkt aktualisiert."
+
+#: bbpress/form-topic-merge.php:29
+msgid "Destination"
+msgstr "Bestimmungsort"
+
+#: bbpress/form-topic-merge.php:40
+msgid "Merge with this topic:"
+msgstr "Mit diesem Thema zusammenführen:"
+
+#: bbpress/form-topic-merge.php:50
+msgid "No topics were found to which the topic could be merged to!"
+msgstr ""
+"Keine Themen gefunden, mit denen das Thema zusammengeführt werden könnte!"
+
+#: bbpress/form-topic-merge.php:58
+msgid "There are no other topics in this forum to merge with"
+msgstr "Es gibt keine anderen Themen in diesem Forum zum Zusammenführen"
+
+#: bbpress/form-topic-merge.php:64 bbpress/form-topic-split.php:70
+msgid "Topic extras"
+msgstr "Thema Extras"
+
+#: bbpress/form-topic-merge.php:74
+msgid "Merge topic subscribers"
+msgstr "Themen-Abonnenten zusammenführen"
+
+#: bbpress/form-topic-merge.php:84
+msgid "Merge topic favoriters"
+msgstr "Favoriten des Themas zusammenführen"
+
+#: bbpress/form-topic-merge.php:94
+msgid "Merge topic tags"
+msgstr "Schlagwörter zusammenführen"
+
+#: bbpress/form-topic-merge.php:117 bbpress/form-topic-split.php:122
+msgid "You do not have the permissions to edit this topic!"
+msgstr "Sie sind nicht berechtigt, dieses Thema zu bearbeiten!"
+
+#: bbpress/form-topic-merge.php:117 bbpress/form-topic-split.php:122
+msgid "You cannot edit this topic"
+msgstr "Dieses Thema kann nicht bearbeitet werden"
+
+#: bbpress/form-topic-split.php:18
+#, php-format
+msgid "Split topic \"%s\""
+msgstr "Thema \"%s\" aufteilen"
+
+#: bbpress/form-topic-split.php:21
+msgid ""
+"When you split a topic, you are slicing it in half starting with the reply "
+"you just selected. Choose to use that reply as a new topic with a new title, "
+"or merge those replies into an existing topic."
+msgstr ""
+"Wenn Sie ein Thema aufteilen, beginnt die Teilung mit der Antwort, die Sie "
+"ausgewählt haben. Wählen Sie ob Sie die Antwort als neues Thema mit einem "
+"neuen Titel erstellen oder diese Antworten in ein existierendes Thema "
+"einfügen wollen."
+
+#: bbpress/form-topic-split.php:24
+msgid ""
+"If you use the existing topic option, replies within both topics will be "
+"merged chronologically. The order of the merged replies is based on the time "
+"and date they were posted."
+msgstr ""
+"Wenn Sie die existierenden Themen-Option benutzen, werden Antworten beider "
+"Themen chronologisch zusammengeführt. Die Reihenfolge der zusammengeführten "
+"Antworten basiert auf Zeit und Datum ihrer Erstellung."
+
+#: bbpress/form-topic-split.php:26
+msgid "Split method"
+msgstr "Teilen-Methode"
+
+#: bbpress/form-topic-split.php:37
+#, php-format
+msgid "Split: %s"
+msgstr "Teilen: %s"
+
+#: bbpress/form-topic-split.php:79
+msgid "Copy subscribers to the new topic"
+msgstr "Abonnenten in neues Thema kopieren"
+
+#: bbpress/form-topic-split.php:89
+msgid "Copy favoriters to the new topic"
+msgstr "Favoriten in neuen Beitrag kopieren"
+
+#: bbpress/form-topic-split.php:99
+msgid "Copy topic tags to the new topic"
+msgstr "Themenschlagwörter in neuen Beitrag kopieren"
+
+#: bbpress/form-topic-tag.php:15
+#, php-format
+msgid "Manage Tag: \"%s\""
+msgstr "Schlagwort verwalten: \"%s\""
+
+#: bbpress/form-topic-tag.php:19
+msgid "Rename"
+msgstr "Umbenennen"
+
+#: bbpress/form-topic-tag.php:22
+msgid "Leave the slug empty to have one automatically generated."
+msgstr ""
+"Lassen Sie die Titelform leer, um diese automatisch generieren zu lassen."
+
+#: bbpress/form-topic-tag.php:26
+msgid ""
+"Changing the slug affects its permalink. Any links to the old slug will stop "
+"working."
+msgstr ""
+"Das Ändern der Titelform beeinflusst dessen Permalink. Links zur alten "
+"Titelform werden nicht mehr funktionieren."
+
+#: bbpress/form-topic-tag.php:32
+msgid "Name:"
+msgstr "Name:"
+
+#: bbpress/form-topic-tag.php:37
+msgid "Slug:"
+msgstr "Titelform:"
+
+#: bbpress/form-topic-tag.php:42
+msgid "Update"
+msgstr "Update"
+
+#: bbpress/form-topic-tag.php:56 bbpress/form-topic-tag.php:70
+msgid "Merge"
+msgstr "Zusammenführen"
+
+#: bbpress/form-topic-tag.php:59
+msgid "Merging tags together cannot be undone"
+msgstr ""
+"Das Zusammenführen von Schlagwörtern kann nicht rückgängig gemacht werden"
+
+#: bbpress/form-topic-tag.php:65
+msgid "Existing tag:"
+msgstr "Bestehendes Schlagwort:"
+
+#: bbpress/form-topic-tag.php:70
+#, php-format
+msgid ""
+"Are you sure you want to merge the \"%s\" tag into the tag you specified?"
+msgstr ""
+"Sind Sie sicher, dass Sie das Schlagwort \"%s\" mit dem angegebenen "
+"Schlagwort zusammenführen wollen?"
+
+#: bbpress/form-topic-tag.php:85 bbpress/form-topic-tag.php:98
+msgid "Delete"
+msgstr "Löschen"
+
+#: bbpress/form-topic-tag.php:88
+msgid "This does not delete your topics. Only the tag itself is deleted."
+msgstr "Dies löscht nicht Ihre Themen, sondern lediglich die Schlagwörter."
+
+#: bbpress/form-topic-tag.php:91
+msgid "Deleting a tag cannot be undone."
+msgstr "Das Löschen eines Schlagworts kann nicht rückgängig gemacht werden."
+
+#: bbpress/form-topic-tag.php:92
+msgid "Any links to this tag will no longer function."
+msgstr "Alle Links zu diesem Tag werden nicht mehr funktionieren."
+
+#: bbpress/form-topic-tag.php:98
+#, php-format
+msgid ""
+"Are you sure you want to delete the \"%s\" tag? This is permanent and cannot "
+"be undone."
+msgstr ""
+"Sind Sie sicher, dass Sie das Schlagwort \"%s\" löschen wollen? Dies ist "
+"endgültig und kann nicht rückgängig gemacht werden."
+
+#: bbpress/form-topic.php:23
+#, php-format
+msgid "Now editing %s"
+msgstr "Bearbeite %s"
+
+#: bbpress/form-topic.php:25
+#, php-format
+msgid "Create new topic in %s"
+msgstr "Neues Thema in %s erstellen"
+
+#: bbpress/form-topic.php:25
+msgid "Create new topic"
+msgstr "Neues Thema erstellen"
+
+#: bbpress/form-topic.php:38
+msgid ""
+"This forum is marked as closed to new topics, however your posting "
+"capabilities still allow you to do so"
+msgstr ""
+"Dieser Beitrag ist für neue Antworten geschlossen, mit Ihren Benutzerrechten "
+"dürfen Sie dennoch weiterhin neue Themen anlegen"
+
+#: bbpress/form-topic.php:53
+#, php-format
+msgid "Topic title (maximum length: %d)"
+msgstr "Titel des Themas (maximale Länge: %d)"
+
+#: bbpress/form-topic.php:129 bbpress/loop-forums.php:15
+#: bbpress/loop-search.php:12
+msgid "Forum"
+msgstr "Forum"
+
+#: bbpress/form-topic.php:134
+msgid "No forum"
+msgstr "Kein Forum"
+
+#: bbpress/form-topic.php:151
+msgid "Topic type"
+msgstr "Thementyp"
+
+#: bbpress/form-topic.php:166
+msgid "Topic status"
+msgstr "Themenstatus"
+
+#: bbpress/form-topic.php:270
+#, php-format
+msgid "The forum %s is closed to new topics and replies"
+msgstr "Das Forum %s ist bezogen auf neue Themen und Antworten geschlossen"
+
+#: bbpress/form-topic.php:278
+msgid "You cannot create new topics"
+msgstr "Sie können momentan leider kein neues Thema erstellen"
+
+#: bbpress/form-topic.php:278
+msgid "You must be logged in to create new topics"
+msgstr "Sie müssen angemeldet sein, um neue Themen zu erstellen"
+
+#: bbpress/form-user-edit.php:17 inc/comments.php:235
+#: inc/woocommerce-support.php:354 woocommerce/single-product-reviews.php:71
+msgid "Name"
+msgstr "Name"
+
+#: bbpress/form-user-edit.php:28 inc/woocommerce-support.php:1734
+msgid "First name"
+msgstr "Vorname"
+
+#: bbpress/form-user-edit.php:38 inc/woocommerce-support.php:1740
+msgid "Last name"
+msgstr "Nachname"
+
+#: bbpress/form-user-edit.php:48
+msgid "Nickname"
+msgstr "Spitzname"
+
+#: bbpress/form-user-edit.php:58
+msgid "Display name"
+msgstr "Namen anzeigen"
+
+#: bbpress/form-user-edit.php:70
+msgid "Contact info"
+msgstr "Kontaktinformation"
+
+#: bbpress/form-user-edit.php:106
+msgid "About yourself"
+msgstr "Über dich"
+
+#: bbpress/form-user-edit.php:106
+msgid "About the user"
+msgstr "Über den Nutzer"
+
+#: bbpress/form-user-edit.php:115
+msgid "Biographical info"
+msgstr "Biographische Informationen anzeigen"
+
+#: bbpress/form-user-edit.php:124
+msgid "Account"
+msgstr "Konto"
+
+#: bbpress/form-user-edit.php:129 bbpress/form-user-login.php:16
+#: bbpress/form-user-register.php:21 inc/woocommerce-support.php:2185
+#: woocommerce/myaccount/form-login.php:90
+msgid "Username"
+msgstr "Benutzername"
+
+#: bbpress/form-user-edit.php:137 bbpress/form-user-register.php:28
+#: inc/comments.php:240 woocommerce/single-product-reviews.php:73
+msgid "Email"
+msgstr "E-Mail"
+
+#: bbpress/form-user-edit.php:153
+#, php-format
+msgid ""
+"There is a pending email address change to <code>%1$s</code>. <a "
+"href=\"%2$s\">Cancel</a>"
+msgstr ""
+"Es liegt eine ausstehende Emailadressenänderung vor <code>%1$s</code>. <a "
+"href=\"%2$s\">Abbrechen</a>"
+
+#: bbpress/form-user-edit.php:162
+msgid "New Password"
+msgstr "Neues Passwort"
+
+#: bbpress/form-user-edit.php:166
+msgid ""
+"If you would like to change the password type a new one. Otherwise leave "
+"this blank"
+msgstr ""
+"Wenn Sie Ihr Passwort ändern wollen, geben Sie das neue bitte hier ein, "
+"andernfalls lassen Sie das Feld frei"
+
+#: bbpress/form-user-edit.php:176
+msgid "Type your new password again"
+msgstr "Geben Sie das Passwort noch mal ein"
+
+#: bbpress/form-user-edit.php:187
+msgid ""
+"Your password should be at least ten characters long. Use upper and lower "
+"case letters, numbers, and symbols to make it even stronger"
+msgstr ""
+"Ihr Passwort sollte mindestens 10 Zeichen lang sein. Benutzen Sie Groß- und "
+"Kleinbuchstaben, Zahlen und Symbole, um es noch sicherer zu machen"
+
+#: bbpress/form-user-edit.php:197
+msgid "User role"
+msgstr "Benutzerrolle"
+
+#: bbpress/form-user-edit.php:204
+msgid "Network Role"
+msgstr "Netzwerkrolle"
+
+#: bbpress/form-user-edit.php:209
+msgid "Grant this user super admin privileges for the Network."
+msgstr "Diesem Benutzer Superadmin-Rechte für dieses Netzwerk erteilen."
+
+#: bbpress/form-user-edit.php:229
+msgid "Update Profile"
+msgstr "Profil aktualisieren"
+
+#: bbpress/form-user-edit.php:229
+msgid "Update User"
+msgstr "Benutzer aktualisieren"
+
+#: bbpress/form-user-login.php:13 bbpress/form-user-login.php:40
+#: inc/woocommerce-support.php:2203
+msgid "Log In"
+msgstr "Anmelden"
+
+#: bbpress/form-user-login.php:23 inc/woocommerce-support.php:2191
+#: woocommerce/myaccount/form-login.php:46
+#: woocommerce/myaccount/form-login.php:110
+msgid "Password"
+msgstr "Passwort"
+
+#: bbpress/form-user-login.php:33
+msgid "Keep me signed in"
+msgstr "Eingeloggt bleiben"
+
+#: bbpress/form-user-lost-pass.php:14
+msgid "Lost Password"
+msgstr "Passwort vergessen"
+
+#: bbpress/form-user-lost-pass.php:18
+msgid "Username or Email"
+msgstr "Benutzername oder Email"
+
+#: bbpress/form-user-lost-pass.php:27
+msgid "Reset My Password"
+msgstr "Mein Passwort zurücksetzen"
+
+#: bbpress/form-user-register.php:13
+msgid "Create an account"
+msgstr "Konto erstellen"
+
+#: bbpress/form-user-register.php:16
+msgid "Your username must be unique, and cannot be changed later."
+msgstr ""
+"Ihr Benutzername muss einmalig sein und kann später nicht mehr geändert "
+"werden."
+
+#: bbpress/form-user-register.php:17
+msgid ""
+"We use your email address to email you a secure password and verify your "
+"account."
+msgstr ""
+"Wir verwenden Ihre Emailadresse, um Ihnen ein sicheres Passwort zu schicken "
+"und Ihr Konto zu verifizieren."
+
+#: bbpress/form-user-register.php:38 woocommerce/myaccount/form-login.php:80
+#: woocommerce/myaccount/form-login.php:123
+#: woocommerce/myaccount/form-login.php:123
+msgid "Register"
+msgstr "Registrieren"
+
+#: bbpress/loop-forums.php:17 bbpress/loop-topics.php:18
+#: inc/admin/customizer/customizer-options.php:3708
+msgid "Posts"
+msgstr "Beiträge"
+
+#: bbpress/loop-forums.php:18 bbpress/loop-topics.php:19
+msgid "Freshness"
+msgstr "Aktualität"
+
+#: bbpress/loop-search-forum.php:15
+msgid "Forum: "
+msgstr "Forum: "
+
+#: bbpress/loop-search-forum.php:27
+#, php-format
+msgid "Last updated %s"
+msgstr "Zuletzt aktualisiert: %s"
+
+#: bbpress/loop-search-reply.php:14
+msgid "In reply to: "
+msgstr "Als Antwort auf: "
+
+#: bbpress/loop-search-topic.php:22
+msgid "Topic: "
+msgstr "Thema: "
+
+#: bbpress/loop-search-topic.php:50 bbpress/loop-single-topic.php:76
+#, php-format
+msgid "Started by %1$s"
+msgstr "Begonnen von %1$s"
+
+#: bbpress/loop-search-topic.php:65 bbpress/loop-single-topic.php:91
+#, php-format
+msgid "in <a href=\"%1$s\"><b>%2$s</b></a>"
+msgstr "in <a href=\"%1$s\"><b>%2$s</b></a>"
+
+#: bbpress/loop-search.php:10
+msgid "Reply"
+msgstr "Antwort"
+
+#: bbpress/loop-search.php:11 bbpress/loop-topics.php:16
+msgid "Topic"
+msgstr "Thema"
+
+#: bbpress/loop-single-reply.php:16
+msgid "In reply to "
+msgstr "Als Antwort auf "
+
+#: bbpress/loop-single-reply.php:45
+#, php-format
+msgid "Posts: %s"
+msgstr "Beiträge: %s"
+
+#: bbpress/loop-topics.php:17
+msgid "Voices"
+msgstr "Stimmen"
+
+#: bbpress/pagination-replies.php:16 bbpress/pagination-search.php:16
+#: bbpress/pagination-topics.php:16 template-parts/navigation/navigation.php:14
+msgid "Navigation"
+msgstr "Navigation"
+
+#: bbpress/user-details.php:28
+#, php-format
+msgid "%s's Profile"
+msgstr "%s's Profile"
+
+#: bbpress/user-details.php:29 bbpress/user-profile.php:14
+msgid "Profile"
+msgstr "Profil"
+
+#: bbpress/user-details.php:34
+#, php-format
+msgid "%s's Topics Started"
+msgstr "%ss begonnene Themen"
+
+#: bbpress/user-details.php:34
+msgid "Topics Started"
+msgstr "Themen begonnen"
+
+#: bbpress/user-details.php:39
+#, php-format
+msgid "%s's Replies Created"
+msgstr "%ss erstellte Antworten"
+
+#: bbpress/user-details.php:39
+msgid "Replies Created"
+msgstr "Erstellte Antworten"
+
+#: bbpress/user-details.php:47
+#, php-format
+msgid "%s's Favorites"
+msgstr "%ss Favoriten"
+
+#: bbpress/user-details.php:47
+msgid "Favorites"
+msgstr "Favoriten"
+
+#: bbpress/user-details.php:59
+#, php-format
+msgid "%s's Subscriptions"
+msgstr "%ss Abonnements"
+
+#: bbpress/user-details.php:59
+msgid "Subscriptions"
+msgstr "Abonnements"
+
+#: bbpress/user-details.php:67
+#, php-format
+msgid "Edit %s's Profile"
+msgstr "%s's Profil bearbeiten"
+
+#: bbpress/user-details.php:67 inc/front-page-elements.php:108
+#: inc/front-page-elements.php:230 inc/front-page-elements.php:322
+#: inc/woocommerce-support.php:1447
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: bbpress/user-favorites.php:17
+msgid "Favorite forum topics"
+msgstr ""
+
+#: bbpress/user-favorites.php:34
+msgid "You currently have no favorite topics"
+msgstr "Sie haben derzeit keine Lieblingsthemen"
+
+#: bbpress/user-favorites.php:34
+msgid "This user has no favorite topics"
+msgstr "Dieser Benutzer hat keine bevorzugten Themen."
+
+#: bbpress/user-profile.php:27
+msgid "Forum role:"
+msgstr "Forenrolle:"
+
+#: bbpress/user-profile.php:30
+msgid "Topics started:"
+msgstr "Themen begonnen:"
+
+#: bbpress/user-profile.php:33
+msgid "Replies created:"
+msgstr "Antworten erstellt:"
+
+#: bbpress/user-replies-created.php:17
+msgid "Forum replies created"
+msgstr "Foren-Antworten erstellt"
+
+#: bbpress/user-replies-created.php:34
+msgid "You have not replied to any topics"
+msgstr "Sie haben bisher noch auf keine Beiträge geantwortet"
+
+#: bbpress/user-replies-created.php:34
+msgid "This user has not replied to any topics"
+msgstr "Dieser Nutzer hat zu keinen Themen geantwortet"
+
+#: bbpress/user-subscriptions.php:21
+msgid "Subscribed forums"
+msgstr "Abonnierte Foren"
+
+#: bbpress/user-subscriptions.php:34
+msgid "You are not currently subscribed to any forums"
+msgstr "Sie haben keine Foren abonniert"
+
+#: bbpress/user-subscriptions.php:34
+msgid "This user is not currently subscribed to any forums"
+msgstr "Dieser Nutzer hat derzeit keine Foren abonniert"
+
+#: bbpress/user-subscriptions.php:44
+msgid "Subscribed topics"
+msgstr "Abonnierte Themen"
+
+#: bbpress/user-subscriptions.php:61
+msgid "You are not currently subscribed to any topics"
+msgstr "Sie haben derzeit keine Themen abonniert"
+
+#: bbpress/user-subscriptions.php:61
+msgid "This user is not currently subscribed to any topics"
+msgstr "Dieser Nutzer hat derzeit keine Themen abonniert"
+
+#: bbpress/user-topics-created.php:17
+msgid "Forum topics started"
+msgstr "Gestartete Foren-Themen"
+
+#: bbpress/user-topics-created.php:34
+msgid "You have not created any topics"
+msgstr "Sie haben keine Themen erstellt"
+
+#: bbpress/user-topics-created.php:34
+msgid "This user has not created any topics"
+msgstr "Dieser Benutzer hat noch keine Themen erstellt"
+
+#: inc/bbpress-support.php:47 inc/template-tags.php:732
+#: inc/woocommerce-support.php:287
+msgid "Breadcrumb"
+msgstr "Breadcrumb"
+
+#: inc/bbpress-support.php:78 inc/comments.php:94 inc/template-tags.php:627
+#: inc/template-tags.php:668 inc/template-tags.php:890
+#: inc/template-tags.php:944 inc/template-tags.php:1054
+#: woocommerce/single-product/product-image.php:79
+msgid "Previous"
+msgstr "Vorheriger"
+
+#: inc/bbpress-support.php:79 inc/comments.php:95 inc/template-tags.php:628
+#: inc/template-tags.php:667 inc/template-tags.php:894
+#: inc/template-tags.php:948 inc/template-tags.php:1058
+#: woocommerce/single-product/product-image.php:83
+msgid "Next"
+msgstr "Nächster"
+
+#: inc/comments.php:37 inc/template-tags.php:479
+#: template-parts/post/content-post.php:52
+msgid "% Comments"
+msgstr "% Kommentare"
+
+#: inc/comments.php:39 inc/template-tags.php:479
+#: template-parts/post/content-post.php:52
+msgid "1 Comment"
+msgstr "1 Kommentar"
+
+#: inc/comments.php:43
+msgid "% Pings/Trackbacks"
+msgstr "% Pings/Trackbacks"
+
+#: inc/comments.php:45
+msgid "1 Ping/Trackback"
+msgstr "1 Ping / Trackback"
+
+#: inc/comments.php:80
+msgid "Follow replies"
+msgstr "Kommentare verfolgen"
+
+#: inc/comments.php:110 inc/tabs-widget.php:76
+msgid "Comments"
+msgstr "Kommentare"
+
+#: inc/comments.php:159
+msgid "Author"
+msgstr "Autor"
+
+#: inc/comments.php:160
+msgid "Pingback"
+msgstr "Pingback"
+
+#: inc/comments.php:161
+msgid "Verified buyer"
+msgstr "Verifizierter Käufer"
+
+#: inc/comments.php:168
+#, php-format
+msgid "%1$s - %2$s"
+msgstr "%1$s - %2$s"
+
+#: inc/comments.php:187
+msgid "Your comment is awaiting moderation"
+msgstr "Ihr Beitrag wartet auf die Moderation"
+
+#: inc/comments.php:250
+msgid ""
+"Save my name, email, and website in this browser for the next time I comment."
+msgstr ""
+"Meinen Namen, E-Mail-Adresse und Website in diesem Browser für meinen "
+"nächsten Kommentar speichern."
+
+#: inc/comments.php:289
+msgid "Cancel reply"
+msgstr "Antwort abbrechen"
+
+#: inc/front-page-elements.php:12
+msgid "Bootstrap Slider will be displayed here"
+msgstr ""
+
+#: inc/front-page-elements.php:12 inc/front-page-elements.php:29
+msgid "Add slides"
+msgstr ""
+
+#: inc/front-page-elements.php:29
+msgid "Parallax Slider will be displayed here"
+msgstr ""
+
+#: inc/front-page-elements.php:108
+msgid "Content boxes element will be displayed here"
+msgstr "Hier wird die Inhaltsbox angezeigt"
+
+#: inc/front-page-elements.php:230
+msgid "Testimonials element will be displayed here"
+msgstr "Hier wird das Testimonials-Element angezeigt"
+
+#: inc/front-page-elements.php:322
+msgid "Counter circles element will be displayed here"
+msgstr "Hier wird das Zähler-Kreis-Element angezeigt"
+
+#: inc/tabs-widget.php:7
+msgid "evolve: Tabs"
+msgstr "evolve: Tabs"
+
+#: inc/tabs-widget.php:10
+msgid "Popular posts, recent posts and comments."
+msgstr "Beliebte Beiträge, sowie letzte Beiträge und Kommentare."
+
+#: inc/tabs-widget.php:59
+msgid "Popular"
+msgstr "Beliebt"
+
+#: inc/tabs-widget.php:67
+msgid "Recent"
+msgstr "Neueste"
+
+#: inc/tabs-widget.php:198
+msgid " says"
+msgstr " sagt"
+
+#: inc/tabs-widget.php:249
+msgid "Popular Posts Order By"
+msgstr "Beliebte Beiträge sortieren nach"
+
+#: inc/tabs-widget.php:257
+msgid "Highest Comments"
+msgstr "Meisten Kommentare"
+
+#: inc/tabs-widget.php:262
+msgid "Highest Views"
+msgstr "Am meisten angesehen"
+
+#: inc/tabs-widget.php:266
+msgid "Number of popular posts"
+msgstr "Anzahl der beliebten Beiträge"
+
+#: inc/tabs-widget.php:272
+msgid "Number of recent posts"
+msgstr "Anzahl der letzten Beiträge"
+
+#: inc/tabs-widget.php:278
+msgid "Number of comments"
+msgstr "Anzahl der Kommentare"
+
+#: inc/tabs-widget.php:289
+msgid "Show popular posts"
+msgstr "Beliebte Beiträge anzeigen"
+
+#: inc/tabs-widget.php:294
+msgid "Show recent posts"
+msgstr "Verwandte Beiträge anzeigen"
+
+#: inc/tabs-widget.php:299
+msgid "Show comments"
+msgstr "Kommentare anzeigen"
+
+#: inc/template-functions.php:333
+msgid "You are browsing archives for"
+msgstr "Durchsuche Archive nach"
+
+#: inc/template-functions.php:857
+msgid "Add a menu"
+msgstr "Menü hinzufügen"
+
+#: inc/template-tags.php:88 inc/template-tags.php:805
+msgid "Search"
+msgstr "Suche"
+
+#: inc/template-tags.php:128 inc/template-tags.php:142
+msgid "Sticky"
+msgstr "Oben gehalten"
+
+#: inc/template-tags.php:468
+msgid "Written by"
+msgstr "Geschrieben von"
+
+#: inc/template-tags.php:469
+#, php-format
+msgid "View all posts by %s"
+msgstr "Zeige alle Beiträge von %s"
+
+#: inc/template-tags.php:479 template-parts/post/content-post.php:52
+msgid "Leave a Comment"
+msgstr "Kommentieren"
+
+#: inc/template-tags.php:548
+msgid "Similar posts"
+msgstr "Ähnliche Beiträge"
+
+#: inc/template-tags.php:553
+msgid "Permanent Link to"
+msgstr "Permanent Link zu"
+
+#: inc/template-tags.php:560
+msgid "Untitled"
+msgstr "Unbenannt"
+
+#: inc/template-tags.php:659 woocommerce/loop/pagination.php:28
+msgid "Pages"
+msgstr "Seiten"
+
+#: inc/template-tags.php:659
+msgid "Pages:"
+msgstr "Seiten:"
+
+#: inc/template-tags.php:735 inc/woocommerce-support.php:291
+msgid "Home"
+msgstr "Startseite"
+
+#: inc/template-tags.php:757 inc/admin/customizer/customizer-options.php:3624
+msgid "Blog"
+msgstr "Blog"
+
+#: inc/template-tags.php:802
+msgid "404 - Page not Found"
+msgstr "404 - Die Seite konnte nicht gefunden werden"
+
+#: inc/template-tags.php:1044
+msgid ""
+"Oops, no posts to display! Please check your Post Slider Category Name(s) "
+"settings"
+msgstr ""
+"Oops, es kann kein Beitrag angezeigt werden! Bitte prüfen Sie die "
+"Einstellung bei der Bezeichnung für die Kategorie des Beitrags-Sliders"
+
+#: inc/template-tags.php:1108 inc/admin/customizer/customizer-options.php:4040
+msgid "RSS Feed"
+msgstr "RSS-Feed"
+
+#: inc/template-tags.php:1117 inc/admin/customizer/customizer-options.php:4049
+msgid "Newsletter"
+msgstr "Newsletter"
+
+#: inc/template-tags.php:1125 inc/admin/customizer/customizer-options.php:4058
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/template-tags.php:1133 inc/admin/customizer/customizer-options.php:4067
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/template-tags.php:1141 inc/admin/customizer/customizer-options.php:4121
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: inc/template-tags.php:1149 inc/admin/customizer/customizer-options.php:4076
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/template-tags.php:1156 inc/admin/customizer/customizer-options.php:4085
+msgid "Skype"
+msgstr "Skype"
+
+#: inc/template-tags.php:1164 inc/admin/customizer/customizer-options.php:4094
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/template-tags.php:1172 inc/admin/customizer/customizer-options.php:4103
+msgid "Flickr"
+msgstr "Flickr"
+
+#: inc/template-tags.php:1180
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/template-tags.php:1188 inc/admin/customizer/customizer-options.php:4130
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/template-tags.php:1196 inc/admin/customizer/customizer-options.php:4139
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: inc/template-tags.php:1228
+msgid "Share on Twitter"
+msgstr "Auf Twitter teilen"
+
+#: inc/template-tags.php:1235
+msgid "Share on Facebook"
+msgstr "Auf Facebook teilen"
+
+#: inc/template-tags.php:1242
+msgid "Share on Google Plus"
+msgstr "Auf Google+ teilen"
+
+#: inc/template-tags.php:1249
+msgid "Share on Pinterest"
+msgstr "Auf Pinterest teilen"
+
+#: inc/template-tags.php:1256
+msgid "Share by Email"
+msgstr "Per E-Mail teilen"
+
+#: inc/template-tags.php:1263
+msgid "More options"
+msgstr "Weitere Optionen"
+
+#: inc/widgets.php:10
+msgid "Sidebar 1"
+msgstr "Seitenleiste 1"
+
+#: inc/widgets.php:19
+msgid "Sidebar 2"
+msgstr "Seitenleiste 2"
+
+#: inc/widgets.php:32
+#, php-format
+msgid "Header %d"
+msgstr "Header %d"
+
+#: inc/widgets.php:46
+#, php-format
+msgid "Footer %d"
+msgstr "Footer %d"
+
+#: inc/woocommerce-support.php:85
+msgid "Sale!"
+msgstr "Ausverkauf!"
+
+#: inc/woocommerce-support.php:302
+msgid "Search..."
+msgstr "Suchen…"
+
+#: inc/woocommerce-support.php:351 inc/woocommerce-support.php:353
+#: inc/woocommerce-support.php:354 inc/woocommerce-support.php:355
+#: inc/woocommerce-support.php:356 inc/woocommerce-support.php:357
+#: inc/woocommerce-support.php:358
+msgid "Sort by"
+msgstr "Sortierung nach"
+
+#: inc/woocommerce-support.php:351 inc/woocommerce-support.php:353
+msgid "Default order"
+msgstr "Standard Order"
+
+#: inc/woocommerce-support.php:355
+msgid "Price"
+msgstr "Preis"
+
+#: inc/woocommerce-support.php:356
+msgid "Date"
+msgstr "Datum"
+
+#: inc/woocommerce-support.php:357
+msgid "Popularity"
+msgstr "Beliebtheit"
+
+#: inc/woocommerce-support.php:358
+msgid "Rating"
+msgstr "Bewertung"
+
+#: inc/woocommerce-support.php:363 inc/woocommerce-support.php:365
+#: inc/woocommerce-support.php:366 inc/woocommerce-support.php:367
+#: inc/admin/metaboxes/page-tabs/tab-pagetitlebar.php:4
+#: inc/admin/metaboxes/page-tabs/tab-pagetitlebar.php:9
+msgid "Show"
+msgstr "Anzeigen"
+
+#: inc/woocommerce-support.php:363
+msgid " Products"
+msgstr " Produkte"
+
+#: inc/woocommerce-support.php:365 inc/woocommerce-support.php:366
+#: inc/woocommerce-support.php:367
+msgid "Products"
+msgstr "Produkte"
+
+#: inc/woocommerce-support.php:525
+#: woocommerce/single-product/product-image.php:74
+msgid "Awaiting product image"
+msgstr "Noch kein Bild für dieses Produkt"
+
+#: inc/woocommerce-support.php:544
+msgid "Show details"
+msgstr "Zeige Details"
+
+#: inc/woocommerce-support.php:563 inc/woocommerce-support.php:2237
+msgid "0 items"
+msgstr "0 Elemente"
+
+#: inc/woocommerce-support.php:571 inc/woocommerce-support.php:2245
+msgid "Your cart is currently empty"
+msgstr "Ihr Warenkorb ist momentan leer"
+
+#: inc/woocommerce-support.php:582 inc/woocommerce-support.php:2256
+#, php-format
+msgid "%s item"
+msgid_plural "%s items"
+msgstr[0] "%s Artikel"
+msgstr[1] "%s Artikel"
+
+#: inc/woocommerce-support.php:618 inc/woocommerce-support.php:1142
+#: inc/woocommerce-support.php:2291 woocommerce/checkout/form-checkout.php:59
+msgid "View Cart"
+msgstr "Warenkorb anzeigen"
+
+#: inc/woocommerce-support.php:621 inc/woocommerce-support.php:2294
+msgid "Checkout"
+msgstr "Abmeldung"
+
+#: inc/woocommerce-support.php:658
+#, php-format
+msgid "You have %s item in your cart"
+msgid_plural "You have %s items in your cart"
+msgstr[0] "Sie haben %s Artikel in Ihrem Warenkorb"
+msgstr[1] "Sie haben %s Artikel in Ihrem Warenkorb"
+
+#: inc/woocommerce-support.php:695
+msgid "Calculate shipping"
+msgstr "Versandkosten berechnen"
+
+#: inc/woocommerce-support.php:700
+msgid "Select a country&hellip;"
+msgstr "Wählen Sie ein Land &hellip;"
+
+#: inc/woocommerce-support.php:721 inc/woocommerce-support.php:726
+#: inc/woocommerce-support.php:739
+msgid "State / County"
+msgstr "Bundesland"
+
+#: inc/woocommerce-support.php:727
+msgid "Select a state&hellip;"
+msgstr "Wählen Sie einen Staat &hellip;"
+
+#: inc/woocommerce-support.php:750
+msgid "City"
+msgstr "Ort"
+
+#: inc/woocommerce-support.php:758
+msgid "Postcode / ZIP"
+msgstr "Postleitzahl / PLZ"
+
+#: inc/woocommerce-support.php:763
+msgid "Update Totals"
+msgstr "Gesamtsumme aktualisieren"
+
+#: inc/woocommerce-support.php:788
+msgid "Have a promotional code?"
+msgstr "Haben Sie einen Gutscheincode?"
+
+#: inc/woocommerce-support.php:792
+msgid "Coupon code"
+msgstr "Gutscheincode"
+
+#: inc/woocommerce-support.php:795
+msgid "Apply Coupon"
+msgstr "Gutschein anwenden"
+
+#: inc/woocommerce-support.php:950
+msgid "Billing Address"
+msgstr "Rechnungsadresse"
+
+#: inc/woocommerce-support.php:959
+msgid "Shipping Address"
+msgstr "Lieferadresse"
+
+#: inc/woocommerce-support.php:972
+msgid "Additional Information"
+msgstr "Zusätzliche Informationen"
+
+#: inc/woocommerce-support.php:982
+msgid "Review &amp; Payment"
+msgstr "Bestellübersicht und Zahlung"
+
+#: inc/woocommerce-support.php:1063 inc/woocommerce-support.php:1079
+msgid "Continue"
+msgstr "Fortfahren"
+
+#: inc/woocommerce-support.php:1113 woocommerce/checkout/form-checkout.php:29
+#, php-format
+msgid "Hello, %s"
+msgstr "Hallo, %s"
+
+#: inc/woocommerce-support.php:1155
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: inc/woocommerce-support.php:1162
+msgid "View Downloads"
+msgstr "Downloads anzeigen"
+
+#: inc/woocommerce-support.php:1168
+msgid "View Orders"
+msgstr "Bestellungen anzeigen"
+
+#: inc/woocommerce-support.php:1175
+msgid "Change Address"
+msgstr "Adresse ändern"
+
+#: inc/woocommerce-support.php:1181
+msgid "Edit Account"
+msgstr "Konto bearbeiten"
+
+#: inc/woocommerce-support.php:1187 inc/woocommerce-support.php:2217
+msgid "Logout"
+msgstr "Abmelden"
+
+#: inc/woocommerce-support.php:1208
+#, php-format
+msgid "Hello %1$s%2$s%3$s (not %2$s? %4$sSign out%5$s)"
+msgstr "Hallo %1$s%2$s%3$s (nicht %2$s? %4$sAbmelden%5$s)"
+
+#: inc/woocommerce-support.php:1214
+#, php-format
+msgid ""
+"From your account dashboard you can view your %1$srecent orders%2$s, manage "
+"your %3$sshipping and billing addresses%2$s and %4$sedit your password and "
+"account details%2$s."
+msgstr ""
+"In Ihrer Kontoübersicht können Sie Ihre %1$sletzten Bestellungen%2$s ansehen,"
+" Ihre %3$sLiefer- und Rechnungsadressen%2$s verwalten, sowie Ihr %4$s "
+"Passwort und Ihre Konto-Details bearbeiten%2$s."
+
+#: inc/woocommerce-support.php:1228
+msgid "Order"
+msgstr "Bestellung"
+
+#: inc/woocommerce-support.php:1229
+msgid "Date "
+msgstr ""
+
+#: inc/woocommerce-support.php:1230
+msgid "Status"
+msgstr "Status"
+
+#: inc/woocommerce-support.php:1231 inc/woocommerce-support.php:1798
+#: woocommerce/cart/cart-totals.php:93 woocommerce/cart/cart-totals.php:94
+#: woocommerce/cart/cart.php:34 woocommerce/checkout/review-order.php:18
+msgid "Total"
+msgstr "Gesamtsumme"
+
+#: inc/woocommerce-support.php:1248
+msgid "Recent orders"
+msgstr "Letzte Bestellungen"
+
+#: inc/woocommerce-support.php:1281
+msgctxt "hash before order number"
+msgid "#"
+msgstr "#"
+
+#: inc/woocommerce-support.php:1291
+#, php-format
+msgid "%1$s for %2$s item"
+msgid_plural "%1$s for %2$s items"
+msgstr[0] "%1$s für %2$s Artikel"
+msgstr[1] "%1$s für %2$s Artikel"
+
+#: inc/woocommerce-support.php:1298 woocommerce/checkout/thankyou.php:31
+msgid "Pay"
+msgstr "Jetzt bezahlen"
+
+#: inc/woocommerce-support.php:1302
+msgid "View"
+msgstr "Anzeigen"
+
+#: inc/woocommerce-support.php:1306
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: inc/woocommerce-support.php:1339 inc/woocommerce-support.php:1390
+msgid "Go Shop"
+msgstr "Zum Shop"
+
+#: inc/woocommerce-support.php:1341
+msgid "No order has been made yet."
+msgstr "Es wurde noch keinen Bestellung aufgegeben."
+
+#: inc/woocommerce-support.php:1360
+msgid "Available downloads"
+msgstr "Verfügbare Downloads"
+
+#: inc/woocommerce-support.php:1373
+#, php-format
+msgid "%s download remaining"
+msgid_plural "%s downloads remaining"
+msgstr[0] "%s download verbleibend"
+msgstr[1] "%s downloads verbleibend"
+
+#: inc/woocommerce-support.php:1393
+msgid "No downloads available yet."
+msgstr "Noch keine Downloads verfügbar."
+
+#: inc/woocommerce-support.php:1412
+msgid "My address"
+msgstr ""
+
+#: inc/woocommerce-support.php:1419 inc/woocommerce-support.php:1425
+#: inc/woocommerce-support.php:1514 inc/woocommerce-support.php:1952
+msgid "Billing address"
+msgstr "Rechnungsadresse"
+
+#: inc/woocommerce-support.php:1420 inc/woocommerce-support.php:1573
+#: inc/woocommerce-support.php:1969
+msgid "Shipping address"
+msgstr "Lieferadresse"
+
+#: inc/woocommerce-support.php:1431
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+"Die folgenden Adressen werden auf der Checkout-Seite als Standard verwendet."
+
+#: inc/woocommerce-support.php:1466
+msgid "You have not set up this type of address yet"
+msgstr "Sie haben bisher keine Adresse dieser Art erstellt"
+
+#: inc/woocommerce-support.php:1528 inc/woocommerce-support.php:1587
+msgid "Save Address"
+msgstr "Adresse speichern"
+
+#: inc/woocommerce-support.php:1663
+msgid "is a required field."
+msgstr "ist ein erforderliches Feld."
+
+#: inc/woocommerce-support.php:1676
+msgid "Please enter a valid postcode/ZIP."
+msgstr "Bitte geben Sie eine gültige Postleitzahl ein."
+
+#: inc/woocommerce-support.php:1685
+msgid "is not a valid phone number."
+msgstr "ist keine gültige Telefonnummer."
+
+#: inc/woocommerce-support.php:1692
+msgid "is not a valid email address."
+msgstr "ist keine gültige Email-Adresse."
+
+#: inc/woocommerce-support.php:1707
+msgid "Address changed successfully."
+msgstr "Adresse ist erfolgreich geändert worden."
+
+#: inc/woocommerce-support.php:1730
+msgid "Edit account"
+msgstr "Konto bearbeiten"
+
+#: inc/woocommerce-support.php:1745 woocommerce/myaccount/form-login.php:100
+msgid "Email address"
+msgstr "E-Mail Adresse"
+
+#: inc/woocommerce-support.php:1750
+msgid "Password Change"
+msgstr "Passwort ändern"
+
+#: inc/woocommerce-support.php:1753
+msgid "Current Password (leave blank to leave unchanged)"
+msgstr "Aktuelles Passwort (leer lassen um unverändert zu übernehmen)"
+
+#: inc/woocommerce-support.php:1757
+msgid "New Password (leave blank to leave unchanged)"
+msgstr "Neues Passwort (leer lassen, um unverändert übernehmen)"
+
+#: inc/woocommerce-support.php:1761
+msgid "Confirm New Password"
+msgstr "Neues Passwort bestätigen"
+
+#: inc/woocommerce-support.php:1768
+msgid "Save changes"
+msgstr "Änderungen übernehmen"
+
+#: inc/woocommerce-support.php:1791
+msgid "Order details"
+msgstr "Bestelldetails"
+
+#: inc/woocommerce-support.php:1796 woocommerce/cart/cart.php:30
+#: woocommerce/checkout/review-order.php:17
+msgid "Product"
+msgstr "Produkt"
+
+#: inc/woocommerce-support.php:1797 woocommerce/cart/cart.php:33
+#: woocommerce/global/quantity-input.php:33
+#: woocommerce/global/quantity-input.php:36
+msgid "Quantity"
+msgstr "Menge"
+
+#: inc/woocommerce-support.php:1860
+#, php-format
+msgid "Download file%s"
+msgstr "Datei herunterladen%s"
+
+#: inc/woocommerce-support.php:1919
+msgid "Customer details"
+msgstr "Benutzerdefinerte Details"
+
+#: inc/woocommerce-support.php:1925
+msgid "Note:"
+msgstr "Hinweis:"
+
+#: inc/woocommerce-support.php:1928
+msgid "Email:"
+msgstr "E-Mail:"
+
+#: inc/woocommerce-support.php:1931
+msgid "Telephone:"
+msgstr "Telefon:"
+
+#: inc/woocommerce-support.php:1957 inc/woocommerce-support.php:1974
+#: woocommerce/single-product/meta.php:32
+msgid "N/A"
+msgstr "N/A"
+
+#: inc/woocommerce-support.php:2152
+msgid "Cart"
+msgstr "Warenkorb"
+
+#: inc/woocommerce-support.php:2173 woocommerce/checkout/thankyou.php:34
+msgid "My Account"
+msgstr "Mein Konto"
+
+#: inc/woocommerce-support.php:2198
+msgid "Remember Me"
+msgstr "Passwort merken"
+
+#. translators: 1: reviews count 2: product name
+#: woocommerce/single-product-reviews.php:35
+#, php-format
+msgid "%1$s Review for %2$s"
+msgid_plural "%1$s Reviews for %2$s"
+msgstr[0] "%1$s Beurteilung für %2$s"
+msgstr[1] "%1$s Beurteilungen für %2$s"
+
+#: woocommerce/single-product-reviews.php:37
+msgid "Reviews"
+msgstr "Kundenbewertungen"
+
+#: woocommerce/single-product-reviews.php:56
+msgid "There are no reviews yet"
+msgstr "Bisher wurde noch keine Bewertung abgegeben"
+
+#: woocommerce/single-product-reviews.php:69
+msgid "Add a review"
+msgstr "Kommentar hinzufügen"
+
+#: woocommerce/single-product-reviews.php:69
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr "Seien Sie der Erste, der &bdquo;%s&ldquo; bewertet;"
+
+#: woocommerce/single-product-reviews.php:82
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review"
+msgstr ""
+"Sie müssen sich <a href=\"%s\">anmelden</a>, um eine Bewertung abzugeben"
+
+#: woocommerce/single-product-reviews.php:86
+msgid "Your rating"
+msgstr "Ihre  Bewertung"
+
+#: woocommerce/single-product-reviews.php:87
+msgid "Rate&hellip;"
+msgstr "Bewerten&hellip;"
+
+#: woocommerce/single-product-reviews.php:88
+msgid "Perfect"
+msgstr "Perfekt"
+
+#: woocommerce/single-product-reviews.php:89
+msgid "Good"
+msgstr "Gut"
+
+#: woocommerce/single-product-reviews.php:90
+msgid "Average"
+msgstr "Durchschnittlich"
+
+#: woocommerce/single-product-reviews.php:91
+msgid "Not that bad"
+msgstr "Nicht schlecht"
+
+#: woocommerce/single-product-reviews.php:92
+msgid "Very poor"
+msgstr "Sehr schlecht"
+
+#: woocommerce/single-product-reviews.php:94
+msgid "Your review"
+msgstr "Ihr Feedback"
+
+#: woocommerce/single-product-reviews.php:102
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+"Nur eingeloggte Benutzer, die das Produkt gekauft haben, können eine "
+"Bewertung schreiben."
+
+#: template-parts/header/header-v1.php:70
+#: template-parts/header/header-v2.php:54
+msgid "Primary"
+msgstr "Primär"
+
+#: template-parts/navigation/navigation.php:36
+msgid "Newer Entries"
+msgstr "Neuere Einträge"
+
+#: template-parts/navigation/navigation.php:37
+msgid "Older Entries"
+msgstr "Ältere Beiträge"
+
+#: template-parts/post/content-none.php:9
+msgid "Nothing To Show Yet"
+msgstr "Hier gibt es nichts zu zeigen"
+
+#: template-parts/post/content-none.php:13
+msgid "Get started with your website"
+msgstr "Beginnen Sie mit Ihrer Website"
+
+#: template-parts/post/content-none.php:15
+#, php-format
+msgid "<a href=\"%1$s\" class=\"btn btn-lg mb-5\">Publish your first post</a>."
+msgstr ""
+"<a href=\"%1$s\" class=\"btn btn-lg mb-5\">Veröffentlichen Sie Ihren ersten "
+"Beitrag</a>."
+
+#. $s shipping destination.
+#: woocommerce/cart/cart-shipping.php:50
+#, php-format
+msgid "Estimate for %s"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:51
+msgid "Change address"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:53
+msgid "This is only an estimate. Prices will be updated during checkout."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:60
+msgid "Enter your address to view shipping options."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:62
+msgid ""
+"There are no shipping methods available. Please ensure that your address has "
+"been entered correctly, or contact us if you need any help."
+msgstr ""
+"Keine Versandarten verfügbar. Bitte prüfen Sie Ihre Adresse – oder "
+"kontaktieren Sie uns, wenn Sie Hilfe benötigen."
+
+#. $s shipping destination.
+#: woocommerce/cart/cart-shipping.php:65
+#, php-format
+msgid "No shipping options were found for %s."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:66
+msgid "Enter a different address"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:29
+msgid "Cart totals"
+msgstr "Gesamtsumme"
+
+#: woocommerce/cart/cart-totals.php:34 woocommerce/cart/cart-totals.php:35
+msgid "Subtotal"
+msgstr "Zwischensumme"
+
+#: woocommerce/cart/cart-totals.php:56 woocommerce/cart/cart-totals.php:57
+msgid "Shipping"
+msgstr "Versand"
+
+#: woocommerce/cart/cart-totals.php:72
+#, php-format
+msgid "(estimated for %s)"
+msgstr "(voraussichtlich %s)"
+
+#: woocommerce/cart/cart.php:31
+msgid "Price "
+msgstr ""
+
+#: woocommerce/cart/cart.php:35
+msgid "Action"
+msgstr "Aktion"
+
+#: woocommerce/cart/cart.php:80
+msgid "Available on backorder"
+msgstr "Verfügbarkeit wird geprüft"
+
+#: woocommerce/cart/cart.php:123
+msgid "Remove this item"
+msgstr "Artikel entfernen"
+
+#: woocommerce/cart/cart.php:163
+msgid "Update Cart"
+msgstr "Warenkorb aktualisieren"
+
+#: woocommerce/cart/cart.php:165
+msgid "Proceed to Checkout"
+msgstr "Zur Kasse"
+
+#: woocommerce/checkout/form-billing.php:29
+msgid "Billing &amp; Shipping"
+msgstr "Rechnung und Versand"
+
+#: woocommerce/checkout/form-billing.php:33
+msgid "Billing details"
+msgstr "Rechnungsadresse"
+
+#: woocommerce/checkout/form-billing.php:64
+msgid "Create an account?"
+msgstr "Konto erstellen?"
+
+#: woocommerce/checkout/form-checkout.php:72
+msgid "You must be logged in to checkout"
+msgstr "Bitte melden Sie sich an, um die Bestellung abzuschließen"
+
+#: woocommerce/checkout/form-checkout.php:103
+msgid "Your order"
+msgstr "Ihre Bestellung"
+
+#: woocommerce/checkout/form-shipping.php:36
+msgid "Ship to a different address?"
+msgstr "An eine andere Adresse liefern?"
+
+#: woocommerce/checkout/form-shipping.php:70
+#: woocommerce/single-product/tabs/additional-information.php:25
+msgid "Additional information"
+msgstr "Zusätzliche Information"
+
+#: woocommerce/checkout/review-order.php:66
+msgid "Cart Subtotal"
+msgstr "Zwischensumme"
+
+#: woocommerce/checkout/review-order.php:121
+msgid "Order Total"
+msgstr "Gesamtsumme"
+
+#: woocommerce/checkout/thankyou.php:19
+msgid ""
+"Unfortunately your order cannot be processed as the originating "
+"bank/merchant has declined your transaction."
+msgstr ""
+"Leider kann Ihre Bestellung nicht weiter verarbeitet werden, da Ihre "
+"ausführende Bank die Transaktion abgelehnt hat."
+
+#: woocommerce/checkout/thankyou.php:23
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+"Bitte versuchen Sie, den Kauf noch einmal zu tätigen oder gehen Sie zurück "
+"zu Ihrem Kundenkonto."
+
+#: woocommerce/checkout/thankyou.php:25
+msgid "Please attempt your purchase again."
+msgstr "Bitte versuchen Sie, den Kauf noch einmal zu tätigen."
+
+#: woocommerce/checkout/thankyou.php:41 woocommerce/checkout/thankyou.php:73
+msgid "Thank you. Your order has been received."
+msgstr "Danke, Ihre Bestellung wurde aufgenommen."
+
+#: woocommerce/checkout/thankyou.php:45
+msgid "Order:"
+msgstr "Bestellung:"
+
+#: woocommerce/checkout/thankyou.php:49
+msgid "Date:"
+msgstr "Datum:"
+
+#: woocommerce/checkout/thankyou.php:53
+msgid "Total:"
+msgstr "Gesamtsumme:"
+
+#: woocommerce/checkout/thankyou.php:58
+msgid "Payment method:"
+msgstr "Zahlungsmethode:"
+
+#. translators: %s: Quantity.
+#: woocommerce/global/quantity-input.php:29
+#, php-format
+msgid "%s quantity"
+msgstr "%s Menge"
+
+#: woocommerce/global/quantity-input.php:47
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr "Anz"
+
+#: woocommerce/loop/add-to-cart.php:28 woocommerce/loop/add-to-cart.php:52
+#: woocommerce/loop/add-to-cart.php:63
+msgid "Read more"
+msgstr "Weiterlesen"
+
+#: woocommerce/loop/add-to-cart.php:42
+msgid "Select options"
+msgstr "Option wählen"
+
+#: woocommerce/loop/add-to-cart.php:47
+msgid "View options"
+msgstr "Optionen anzeigen"
+
+#: woocommerce/loop/add-to-cart.php:58
+msgid "Add to cart"
+msgstr "Zum Warenkorb hinzufügen"
+
+#: woocommerce/loop/no-products-found.php:26
+msgid "No products were found matching your selection"
+msgstr "Es konnten keine Produkte mit Ihrer Auswahl gefunden werden"
+
+#: woocommerce/myaccount/form-login.php:32
+msgid "Login"
+msgstr "Anmelden"
+
+#: woocommerce/myaccount/form-login.php:39
+msgid "Username or email address"
+msgstr "Benutzername oder E-Mail-Adresse"
+
+#: woocommerce/myaccount/form-login.php:57
+msgid "Log in"
+msgstr "Einloggen"
+
+#: woocommerce/myaccount/form-login.php:63
+msgid "Remember me"
+msgstr "Angemeldet bleiben"
+
+#: woocommerce/myaccount/form-login.php:67
+msgid "Lost your password?"
+msgstr "Passwort vergessen?"
+
+#: woocommerce/myaccount/form-lost-password.php:24
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+"Haben Sie Ihr Passwort vergessen? Bitte geben Sie Ihren Benutzernamen oder "
+"Ihre E-Mail-Adresse ein. Sie bekommen einen Link per E-Mail, womit Sie ein "
+"neues Passwort erstellen können."
+
+#: woocommerce/myaccount/form-lost-password.php:27
+msgid "Username or email"
+msgstr "Benutzername oder E-Mail"
+
+#: woocommerce/myaccount/form-lost-password.php:37
+msgid "Reset password"
+msgstr "Passwort zurücksetzen"
+
+#: woocommerce/single-product/meta.php:31
+msgid "SKU:"
+msgstr "Artikelnummer:"
+
+#: inc/admin/customizer/customizer-options.php:18
+msgid "Theme Links & Premium Version"
+msgstr ""
+
+#: inc/admin/customizer/customizer-options.php:24
+msgid "Theme Homepage"
+msgstr ""
+
+#: inc/admin/customizer/customizer-options.php:24
+msgid "Documentation"
+msgstr ""
+
+#: inc/admin/customizer/customizer-options.php:24
+msgid "Support"
+msgstr ""
+
+#: inc/admin/customizer/customizer-options.php:24
+msgid "evolve Plus key features"
+msgstr ""
+
+#: inc/admin/customizer/customizer-options.php:24
+msgid "Theme4Press Slider"
+msgstr ""
+
+#: inc/admin/customizer/customizer-options.php:24
+msgid "Image or Video Responsive Unlimited Slides With Nice Animations"
+msgstr ""
+
+#: inc/admin/customizer/customizer-options.php:24
+msgid "Built-in Mega Menu"
+msgstr ""
+
+#: inc/admin/customizer/customizer-options.php:24
+msgid ""
+"Excellent Mega Menu When You Need To Add Widgets Or Specially Style Your Menu"
+msgstr ""
+
+#: inc/admin/customizer/customizer-options.php:24
+msgid "Shortcodes"
+msgstr ""
+
+#: inc/admin/customizer/customizer-options.php:24
+msgid "Create Alerts, Tabs, Pricing Tables etc."
+msgstr ""
+
+#: inc/admin/customizer/customizer-options.php:24
+msgid "Custom Sidebars"
+msgstr ""
+
+#: inc/admin/customizer/customizer-options.php:24
+msgid "Create Unique Sidebars With Widgets For Any Page"
+msgstr ""
+
+#: inc/admin/customizer/customizer-options.php:24
+msgid "Portfolios"
+msgstr ""
+
+#: inc/admin/customizer/customizer-options.php:24
+msgid "Up To 9 Layouts &ndash; Select The Right Type For Your Showcase"
+msgstr ""
+
+#: inc/admin/customizer/customizer-options.php:24
+msgid "Google Map Contact"
+msgstr ""
+
+#: inc/admin/customizer/customizer-options.php:24
+msgid "Contact Page Template With The Google Map And reCaptcha Protection"
+msgstr ""
+
+#: inc/admin/customizer/customizer-options.php:24
+msgid "Sticky Navigation"
+msgstr ""
+
+#: inc/admin/customizer/customizer-options.php:24
+msgid ""
+"Sticky Navigation Is Perfect If You Need Organized Pages - For Example For "
+"Documentation"
+msgstr ""
+
+#: inc/admin/customizer/customizer-options.php:24
+msgid "Lightbox"
+msgstr ""
+
+#: inc/admin/customizer/customizer-options.php:24
+msgid ""
+"Responsive Lightbox Ready To Display Your Amazing Shots, YouTube Or Vimeo "
+"Videos, Or Instagram Photos"
+msgstr ""
+
+#: inc/admin/customizer/customizer-options.php:24
+msgid "Slider Revolution (Bundled)"
+msgstr ""
+
+#: inc/admin/customizer/customizer-options.php:24
+msgid "Responsive Premium WordPress Slider With Breathtaking Effects"
+msgstr ""
+
+#: inc/admin/customizer/customizer-options.php:24
+msgid "LayerSlider (Bundled)"
+msgstr ""
+
+#: inc/admin/customizer/customizer-options.php:24
+msgid "Create Fantastic Slides With The Bundled Premium Slider Plugin"
+msgstr ""
+
+#: inc/admin/customizer/customizer-options.php:24
+msgid "100% Width Template"
+msgstr ""
+
+#: inc/admin/customizer/customizer-options.php:24
+msgid ""
+"100% Width Template Let You To Set Any Page To Be Full Width Of The "
+"Browser's Window"
+msgstr ""
+
+#: inc/admin/customizer/customizer-options.php:24
+msgid "Custom Headers"
+msgstr ""
+
+#: inc/admin/customizer/customizer-options.php:24
+msgid "Custom Headers Can Be Set Per Post/Page"
+msgstr ""
+
+#: inc/admin/customizer/customizer-options.php:24
+msgid "Header Layouts"
+msgstr ""
+
+#: inc/admin/customizer/customizer-options.php:24
+msgid "5 Header Layouts"
+msgstr ""
+
+#: inc/admin/customizer/customizer-options.php:24
+msgid "Live Customizer"
+msgstr ""
+
+#: inc/admin/customizer/customizer-options.php:24
+msgid "300+ Theme Options"
+msgstr ""
+
+#: inc/admin/customizer/customizer-options.php:24
+#: inc/admin/customizer/customizer-options.php:5091
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: inc/admin/customizer/customizer-options.php:24
+msgid "Custom/Global Sidebar For WooCommerce Pages"
+msgstr ""
+
+#: inc/admin/customizer/customizer-options.php:24
+#: inc/admin/customizer/customizer-options.php:174
+#: inc/admin/customizer/customizer-options.php:4156
+#: inc/admin/metaboxes/page-tabs/tab-slider.php:14
+msgid "Bootstrap Slider"
+msgstr "Bootstrap-Slider"
+
+#: inc/admin/customizer/customizer-options.php:24
+msgid "EXTRA IN PREMIUM: Unlimited Number Of Slides, Slides Reorder"
+msgstr ""
+
+#: inc/admin/customizer/customizer-options.php:24
+#: inc/admin/customizer/customizer-options.php:175
+#: inc/admin/customizer/customizer-options.php:4488
+#: inc/admin/customizer/customizer.php:526
+#: inc/admin/customizer/customizer.php:536
+#: inc/admin/customizer/customizer.php:555
+#: inc/admin/customizer/customizer.php:565
+#: inc/admin/customizer/customizer.php:583
+#: inc/admin/customizer/customizer.php:592
+#: inc/admin/customizer/customizer.php:607
+#: inc/admin/customizer/customizer.php:627
+#: inc/admin/customizer/customizer.php:636
+#: inc/admin/customizer/customizer.php:656
+#: inc/admin/customizer/customizer.php:665
+#: inc/admin/customizer/customizer.php:684
+#: inc/admin/customizer/customizer.php:692
+#: inc/admin/customizer/customizer.php:707
+#: inc/admin/metaboxes/page-tabs/tab-slider.php:12
+msgid "Parallax Slider"
+msgstr "Parallax-Slider"
+
+#: inc/admin/customizer/customizer-options.php:24
+#: inc/admin/customizer/customizer-options.php:176
+#: inc/admin/customizer/customizer-options.php:4788
+#: inc/admin/customizer/customizer.php:527
+#: inc/admin/customizer/customizer.php:541
+#: inc/admin/customizer/customizer.php:550
+#: inc/admin/customizer/customizer.php:569
+#: inc/admin/customizer/customizer.php:579
+#: inc/admin/customizer/customizer.php:593
+#: inc/admin/customizer/customizer.php:608
+#: inc/admin/customizer/customizer.php:628
+#: inc/admin/customizer/customizer.php:642
+#: inc/admin/customizer/customizer.php:650
+#: inc/admin/customizer/customizer.php:670
+#: inc/admin/customizer/customizer.php:679
+#: inc/admin/customizer/customizer.php:693
+#: inc/admin/customizer/customizer.php:708
+#: inc/admin/metaboxes/page-tabs/tab-slider.php:13
+msgid "Posts Slider"
+msgstr "Beitrags-Slider"
+
+#: inc/admin/customizer/customizer-options.php:24
+msgid "EXTRA IN PREMIUM: Up To 30 Slides"
+msgstr ""
+
+#: inc/admin/customizer/customizer-options.php:24
+msgid "Compare With Premium Version"
+msgstr ""
+
+#: inc/admin/customizer/customizer-options.php:37
+#: inc/admin/customizer/customizer-options.php:795
+#: inc/admin/customizer/customizer-options.php:3635
+#: inc/admin/customizer/customizer-options.php:4167
+#: inc/admin/customizer/customizer-options.php:4499
+msgid "General"
+msgstr "Allgemein"
+
+#: inc/admin/customizer/customizer-options.php:42
+msgid "Select Front Page Layout"
+msgstr "Layout für Titelseite wählen"
+
+#: inc/admin/customizer/customizer-options.php:43
+msgid "Select Content and Sidebar alignment for Front Page"
+msgstr "Wählen Sie Inhalt und Ausrichtung der Seitenleiste für die Titelseite"
+
+#: inc/admin/customizer/customizer-options.php:57
+msgid "Front Page Layout Width Style"
+msgstr "Layout von Breite und Stil auf der Startseite"
+
+#: inc/admin/customizer/customizer-options.php:60
+#: inc/admin/customizer/customizer-options.php:85
+msgid "Boxed"
+msgstr "Box-Style"
+
+#: inc/admin/customizer/customizer-options.php:61
+#: inc/admin/customizer/customizer-options.php:86
+msgid "Wide"
+msgstr "Breit"
+
+#: inc/admin/customizer/customizer-options.php:67
+msgid "Select General Layout"
+msgstr "Allgemeines Layout auswählen"
+
+#: inc/admin/customizer/customizer-options.php:68
+msgid ""
+"Select general Content and Sidebar alignment. This option can be overridden "
+"per post/page setting"
+msgstr ""
+
+#: inc/admin/customizer/customizer-options.php:82
+msgid "General Layout Width Style"
+msgstr "Allgemeiner Layoutbreiten-Stil"
+
+#: inc/admin/customizer/customizer-options.php:92
+msgid "Max Content Layout Width"
+msgstr "Max. Layout-Breite für den Inhalt "
+
+#: inc/admin/customizer/customizer-options.php:93
+msgid "Select the maximum content width for your website (px)"
+msgstr "Wählen Sie die maximale Breite der Inhalte für Ihre Website (px)"
+
+#: inc/admin/customizer/customizer-options.php:112
+msgid "Content Top & Bottom Padding"
+msgstr "Content - Oberer/Unterer Innenabstand"
+
+#: inc/admin/customizer/customizer-options.php:113
+msgid "Enter the page Content Top & Bottom Padding"
+msgstr "Geben Sie den oberen und unteren Innenabstand für den Seiteninhalt ein"
+
+#: inc/admin/customizer/customizer-options.php:145
+msgid "Custom Front Page Builder"
+msgstr "Benutzerdefinierter Front Page Builder"
+
+#: inc/admin/customizer/customizer-options.php:156
+msgid "Elements Display & Order"
+msgstr "Elemente anzeigen und ordnen"
+
+#: inc/admin/customizer/customizer-options.php:161
+msgid "Front Page Elements Display and Order"
+msgstr "Startseiten-Elemente anzeigen und bestellen"
+
+#: inc/admin/customizer/customizer-options.php:167
+msgid "Header Area"
+msgstr "Header-Area"
+
+#: inc/admin/customizer/customizer-options.php:171
+#: inc/admin/customizer/customizer.php:521
+#: inc/admin/customizer/customizer.php:535
+#: inc/admin/customizer/customizer.php:549
+#: inc/admin/customizer/customizer.php:563
+#: inc/admin/customizer/customizer.php:577
+#: inc/admin/customizer/customizer.php:591
+#: inc/admin/customizer/customizer.php:605
+#: inc/admin/customizer/customizer.php:623
+#: inc/admin/customizer/customizer.php:637
+#: inc/admin/customizer/customizer.php:651
+#: inc/admin/customizer/customizer.php:666
+#: inc/admin/customizer/customizer.php:680
+#: inc/admin/customizer/customizer.php:694
+#: inc/admin/customizer/customizer.php:709
+msgid "Header (REORDER ONLY)"
+msgstr "Header (nur neu ordnen)"
+
+#: inc/admin/customizer/customizer-options.php:174
+#: inc/admin/customizer/customizer-options.php:175
+#: inc/admin/customizer/customizer-options.php:176
+#: inc/admin/customizer/customizer.php:509
+#: inc/admin/customizer/customizer.php:510
+msgid " (ACTIVE)"
+msgstr " (ACTIVE)"
+
+#: inc/admin/customizer/customizer-options.php:174
+#: inc/admin/customizer/customizer-options.php:175
+#: inc/admin/customizer/customizer-options.php:176
+#: inc/admin/customizer/customizer.php:509
+#: inc/admin/customizer/customizer.php:510
+msgid " (INACTIVE)"
+msgstr " (INACTIVE)"
+
+#: inc/admin/customizer/customizer-options.php:182
+msgid "Content Elements Position"
+msgstr "Position der Inhaltselemente"
+
+#: inc/admin/customizer/customizer-options.php:183
+msgid "Select the position of front page elements"
+msgstr "Wählen Sie die Position der Elemente für die Titelseite"
+
+#: inc/admin/customizer/customizer-options.php:186
+msgid "Above/Below Content and Sidebar"
+msgstr "Über/Unter dem Inhalt und der Seitenleiste"
+
+#: inc/admin/customizer/customizer-options.php:187
+msgid "In Content And Next To Sidebar"
+msgstr "Im Inhalt und neben der Seitenleiste"
+
+#: inc/admin/customizer/customizer-options.php:193
+msgid "Content Area"
+msgstr "Inhaltsbereich"
+
+#: inc/admin/customizer/customizer-options.php:207
+#: inc/admin/customizer/customizer-options.php:2377
+#: inc/admin/customizer/customizer.php:125
+#: inc/admin/customizer/customizer.php:138
+msgid "Content Boxes"
+msgstr "Content-Boxen"
+
+#: inc/admin/customizer/customizer-options.php:212
+msgid "Enable Content Boxes On Front Page"
+msgstr ""
+
+#: inc/admin/customizer/customizer-options.php:213
+msgid "Check this box if you want to enable Content Boxes On Front Page"
+msgstr ""
+
+#: inc/admin/customizer/customizer-options.php:219
+#: inc/admin/customizer/customizer-options.php:808
+#: inc/admin/customizer/customizer-options.php:1130
+msgid "Items"
+msgstr ""
+
+#: inc/admin/customizer/customizer-options.php:227
+msgid "Content Box 1"
+msgstr "Content-Box 1"
+
+#: inc/admin/customizer/customizer-options.php:233
+msgid "Enable Content Box 1"
+msgstr "Content-Box 1 aktivieren"
+
+#: inc/admin/customizer/customizer-options.php:235
+#: inc/admin/customizer/customizer-options.php:314
+#: inc/admin/customizer/customizer-options.php:393
+#: inc/admin/customizer/customizer-options.php:472
+#: inc/admin/customizer/customizer-options.php:727
+#: inc/admin/customizer/customizer-options.php:1022
+#: inc/admin/customizer/customizer-options.php:1783
+#: inc/admin/customizer/customizer-options.php:1829
+#: inc/admin/customizer/customizer-options.php:1840
+#: inc/admin/customizer/customizer-options.php:3064
+#: inc/admin/customizer/customizer-options.php:3178
+#: inc/admin/customizer/customizer-options.php:3274
+#: inc/admin/customizer/customizer-options.php:3656
+#: inc/admin/customizer/customizer-options.php:3725
+#: inc/admin/customizer/customizer-options.php:3734
+#: inc/admin/customizer/customizer-options.php:3799
+#: inc/admin/customizer/customizer-options.php:3843
+#: inc/admin/customizer/customizer-options.php:3852
+#: inc/admin/customizer/customizer-options.php:3861
+#: inc/admin/customizer/customizer-options.php:3870
+#: inc/admin/customizer/customizer-options.php:3879
+#: inc/admin/customizer/customizer-options.php:3888
+#: inc/admin/customizer/customizer-options.php:3897
+#: inc/admin/customizer/customizer-options.php:3906
+#: inc/admin/customizer/customizer-options.php:3915
+#: inc/admin/customizer/customizer-options.php:3924
+#: inc/admin/customizer/customizer-options.php:3946
+#: inc/admin/customizer/customizer.php:1048
+msgid "Enabled"
+msgstr "Aktiviert"
+
+#: inc/admin/customizer/customizer-options.php:236
+#: inc/admin/customizer/customizer-options.php:315
+#: inc/admin/customizer/customizer-options.php:394
+#: inc/admin/customizer/customizer-options.php:473
+#: inc/admin/customizer/customizer-options.php:728
+#: inc/admin/customizer/customizer-options.php:1023
+#: inc/admin/customizer/customizer-options.php:1784
+#: inc/admin/customizer/customizer-options.php:1830
+#: inc/admin/customizer/customizer-options.php:1841
+#: inc/admin/customizer/customizer-options.php:1880
+#: inc/admin/customizer/customizer-options.php:1913
+#: inc/admin/customizer/customizer-options.php:1943
+#: inc/admin/customizer/customizer-options.php:3065
+#: inc/admin/customizer/customizer-options.php:3179
+#: inc/admin/customizer/customizer-options.php:3275
+#: inc/admin/customizer/customizer-options.php:3525
+#: inc/admin/customizer/customizer-options.php:3657
+#: inc/admin/customizer/customizer-options.php:3670
+#: inc/admin/customizer/customizer-options.php:3726
+#: inc/admin/customizer/customizer-options.php:3735
+#: inc/admin/customizer/customizer-options.php:3746
+#: inc/admin/customizer/customizer-options.php:3768
+#: inc/admin/customizer/customizer-options.php:3800
+#: inc/admin/customizer/customizer-options.php:3844
+#: inc/admin/customizer/customizer-options.php:3853
+#: inc/admin/customizer/customizer-options.php:3862
+#: inc/admin/customizer/customizer-options.php:3871
+#: inc/admin/customizer/customizer-options.php:3880
+#: inc/admin/customizer/customizer-options.php:3889
+#: inc/admin/customizer/customizer-options.php:3898
+#: inc/admin/customizer/customizer-options.php:3907
+#: inc/admin/customizer/customizer-options.php:3916
+#: inc/admin/customizer/customizer-options.php:3925
+#: inc/admin/customizer/customizer-options.php:3947
+#: inc/admin/customizer/customizer-options.php:4005
+#: inc/admin/customizer/customizer-options.php:5050
+#: inc/admin/customizer/customizer.php:1049
+msgid "Disabled"
+msgstr "Deaktiviert"
+
+#: inc/admin/customizer/customizer-options.php:241
+msgid "Content Box 1 Title"
+msgstr "Content-Box 1 Titel"
+
+#: inc/admin/customizer/customizer-options.php:251
+msgid "Content Box 1 Icon (Font Awesome)"
+msgstr "Content-Box 1 Symbol (Schrift Awesome)"
+
+#: inc/admin/customizer/customizer-options.php:262
+msgid "Content Box 1 Icon Color"
+msgstr "Content-Box 1 Symbolfarbe"
+
+#: inc/admin/customizer/customizer-options.php:279
+msgid "Content Box 1 description"
+msgstr "Beschreibung Content-Box 1"
+
+#: inc/admin/customizer/customizer-options.php:289
+msgid "Content Box 1 Button"
+msgstr "Content-Box 1 Button"
+
+#: inc/admin/customizer/customizer-options.php:290
+#: inc/admin/customizer/customizer-options.php:369
+#: inc/admin/customizer/customizer-options.php:448
+#: inc/admin/customizer/customizer-options.php:527
+#, php-format
+msgid "Default: %1$s<a class=\"btn btn-sm\" href=\"#\">Learn more</a>%2$s"
+msgstr ""
+"Standard: %1$s<a class=\"btn btn-sm\" href=\"#\">Mehr Informationen</a>%2$s"
+
+#: inc/admin/customizer/customizer-options.php:306
+msgid "Content Box 2"
+msgstr "Content-Box 2"
+
+#: inc/admin/customizer/customizer-options.php:312
+msgid "Enable Content Box 2"
+msgstr "Content-Box 2 aktivieren"
+
+#: inc/admin/customizer/customizer-options.php:320
+msgid "Content Box 2 Title"
+msgstr "Content-Box 2 Titel"
+
+#: inc/admin/customizer/customizer-options.php:330
+msgid "Content Box 2 Icon (Font Awesome)"
+msgstr "Content-Box 2 Symbol (Schrift Awesome)"
+
+#: inc/admin/customizer/customizer-options.php:341
+msgid "Content Box 2 Icon Color"
+msgstr "Content-Box 2 Symbolfarbe"
+
+#: inc/admin/customizer/customizer-options.php:358
+msgid "Content Box 2 description"
+msgstr "Beschreibung Content-Box 2"
+
+#: inc/admin/customizer/customizer-options.php:368
+msgid "Content Box 2 Button"
+msgstr "Content-Box 2 Button"
+
+#: inc/admin/customizer/customizer-options.php:385
+msgid "Content Box 3"
+msgstr "Content-Box 3"
+
+#: inc/admin/customizer/customizer-options.php:391
+msgid "Enable Content Box 3"
+msgstr "Content-Box 3 aktivieren"
+
+#: inc/admin/customizer/customizer-options.php:399
+msgid "Content Box 3 Title"
+msgstr "Content-Box 3 Titel"
+
+#: inc/admin/customizer/customizer-options.php:409
+msgid "Content Box 3 Icon (Font Awesome)"
+msgstr "Content-Box 3 Symbol (Schrift Awesome)"
+
+#: inc/admin/customizer/customizer-options.php:420
+msgid "Content Box 3 Icon Color"
+msgstr "Content-Box 3 Symbolfarbe"
+
+#: inc/admin/customizer/customizer-options.php:437
+msgid "Content Box 3 description"
+msgstr "Beschreibung Content-Box 3"
+
+#: inc/admin/customizer/customizer-options.php:447
+msgid "Content Box 3 Button"
+msgstr "Content-Box 3 Button"
+
+#: inc/admin/customizer/customizer-options.php:464
+msgid "Content Box 4"
+msgstr "Content-Box 4"
+
+#: inc/admin/customizer/customizer-options.php:470
+msgid "Enable Content Box 4"
+msgstr "Content-Box 4 aktivieren"
+
+#: inc/admin/customizer/customizer-options.php:478
+msgid "Content Box 4 Title"
+msgstr "Content-Box 4 Titel"
+
+#: inc/admin/customizer/customizer-options.php:488
+msgid "Content Box 4 Icon (Font Awesome)"
+msgstr "Content-Box 4 Symbol (Schrift Awesome)"
+
+#: inc/admin/customizer/customizer-options.php:499
+msgid "Content Box 4 Icon Color"
+msgstr "Content-Box 4 Symbolfarbe"
+
+#: inc/admin/customizer/customizer-options.php:516
+msgid "Content Box 4 description"
+msgstr "Beschreibung Content-Box 4"
+
+#: inc/admin/customizer/customizer-options.php:526
+msgid "Content Box 4 Button"
+msgstr "Content-Box 4 Button"
+
+#: inc/admin/customizer/customizer-options.php:537
+#: inc/admin/customizer/customizer-options.php:782
+#: inc/admin/customizer/customizer-options.php:1110
+#: inc/admin/customizer/customizer-options.php:4468
+#: inc/admin/customizer/customizer-options.php:4768
+#: inc/admin/customizer/customizer-options.php:4831
+msgid "Need more items?"
+msgstr ""
+
+#: inc/admin/customizer/customizer-options.php:538
+#: inc/admin/customizer/customizer-options.php:783
+#: inc/admin/customizer/customizer-options.php:1111
+#: inc/admin/customizer/customizer-options.php:4469
+#: inc/admin/customizer/customizer-options.php:4769
+#: inc/admin/customizer/customizer-options.php:4832
+msgid "Check out the premium version"
+msgstr ""
+
+#: inc/admin/customizer/customizer-options.php:544
+msgid "Content Boxes Background Color"
+msgstr "Hintergrundfarbe für Content-Boxen"
+
+#: inc/admin/customizer/customizer-options.php:558
+#: inc/admin/customizer/customizer-options.php:853
+#: inc/admin/customizer/customizer-options.php:1182
+#: inc/admin/customizer/customizer-options.php:1369
+#: inc/admin/customizer/customizer-options.php:1563
+msgid "Section Settings"
+msgstr "Abschnitts-Einstellungen"
+
+#: inc/admin/customizer/customizer-options.php:564
+msgid "Title of Content Boxes Section"
+msgstr "Titel des Abschnitts Content-Boxen"
+
+#: inc/admin/customizer/customizer-options.php:571
+#: inc/admin/customizer/customizer-options.php:866
+#: inc/admin/customizer/customizer-options.php:1195
+#: inc/admin/customizer/customizer-options.php:1382
+#: inc/admin/customizer/customizer-options.php:1576
+msgid "Title Font, Alignment and Color"
+msgstr "Titel: Schriftart, Ausrichtung und Farbe"
+
+#: inc/admin/customizer/customizer-options.php:572
+#: inc/admin/customizer/customizer-options.php:867
+#: inc/admin/customizer/customizer-options.php:1196
+#: inc/admin/customizer/customizer-options.php:1383
+#: inc/admin/customizer/customizer-options.php:1577
+msgid "Select the font, alignment and color of the section title"
+msgstr "Wählen Sie die Schriftart, Ausrichtung und Farbe des Abschnittstitels"
+
+#: inc/admin/customizer/customizer-options.php:592
+#: inc/admin/customizer/customizer-options.php:887
+#: inc/admin/customizer/customizer-options.php:1216
+#: inc/admin/customizer/customizer-options.php:1403
+#: inc/admin/customizer/customizer-options.php:1597
+msgid "Section Padding"
+msgstr "Innenabstand für Abschnitt"
+
+#: inc/admin/customizer/customizer-options.php:593
+#: inc/admin/customizer/customizer-options.php:888
+#: inc/admin/customizer/customizer-options.php:1217
+#: inc/admin/customizer/customizer-options.php:1404
+#: inc/admin/customizer/customizer-options.php:1598
+msgid "Enter the section padding"
+msgstr "Geben Sie den Innenabstand für Abschnitt ein"
+
+#: inc/admin/customizer/customizer-options.php:614
+#: inc/admin/customizer/customizer-options.php:909
+#: inc/admin/customizer/customizer-options.php:1238
+#: inc/admin/customizer/customizer-options.php:1425
+#: inc/admin/customizer/customizer-options.php:1619
+msgid "Section Background Image"
+msgstr "Hintergrundbild für Abschnitt"
+
+#: inc/admin/customizer/customizer-options.php:615
+#: inc/admin/customizer/customizer-options.php:910
+#: inc/admin/customizer/customizer-options.php:1239
+#: inc/admin/customizer/customizer-options.php:1426
+#: inc/admin/customizer/customizer-options.php:1620
+msgid ""
+"Upload a background image for this section, or specify an image URL directly"
+msgstr ""
+"Laden Sie ein Hintergrundbild für diesen Abschnitt hoch oder geben Sie eine "
+"Bild-URL an"
+
+#: inc/admin/customizer/customizer-options.php:629
+#: inc/admin/customizer/customizer-options.php:924
+#: inc/admin/customizer/customizer-options.php:1253
+#: inc/admin/customizer/customizer-options.php:1440
+#: inc/admin/customizer/customizer-options.php:1634
+msgid "Background Image Responsiveness Style"
+msgstr "Hintergrundbild responsiver Stil"
+
+#: inc/admin/customizer/customizer-options.php:630
+#: inc/admin/customizer/customizer-options.php:925
+#: inc/admin/customizer/customizer-options.php:1254
+#: inc/admin/customizer/customizer-options.php:1441
+#: inc/admin/customizer/customizer-options.php:1635
+msgid ""
+"Select if the section background image should be displayed in cover or "
+"contain size"
+msgstr ""
+"Wählen Sie aus, ob das Abschnittshintergrundbild komplett angezeigt oder "
+"komplett ausgefüllt werden soll"
+
+#: inc/admin/customizer/customizer-options.php:633
+#: inc/admin/customizer/customizer-options.php:928
+#: inc/admin/customizer/customizer-options.php:1257
+#: inc/admin/customizer/customizer-options.php:1444
+#: inc/admin/customizer/customizer-options.php:1638
+#: inc/admin/customizer/customizer-options.php:2726
+#: inc/admin/customizer/customizer-options.php:2833
+#: inc/admin/customizer/customizer-options.php:3122
+msgid "Cover"
+msgstr "Bezug"
+
+#: inc/admin/customizer/customizer-options.php:634
+#: inc/admin/customizer/customizer-options.php:929
+#: inc/admin/customizer/customizer-options.php:1258
+#: inc/admin/customizer/customizer-options.php:1445
+#: inc/admin/customizer/customizer-options.php:1639
+#: inc/admin/customizer/customizer-options.php:2727
+#: inc/admin/customizer/customizer-options.php:2834
+#: inc/admin/customizer/customizer-options.php:3123
+msgid "Contain"
+msgstr "Beinhaltet"
+
+#: inc/admin/customizer/customizer-options.php:635
+#: inc/admin/customizer/customizer-options.php:930
+#: inc/admin/customizer/customizer-options.php:1259
+#: inc/admin/customizer/customizer-options.php:1446
+#: inc/admin/customizer/customizer-options.php:1640
+#: inc/admin/customizer/customizer-options.php:2728
+#: inc/admin/customizer/customizer-options.php:2835
+msgid "None"
+msgstr "Keine"
+
+#: inc/admin/customizer/customizer-options.php:649
+#: inc/admin/customizer/customizer-options.php:944
+#: inc/admin/customizer/customizer-options.php:1273
+#: inc/admin/customizer/customizer-options.php:1460
+#: inc/admin/customizer/customizer-options.php:1654
+#: inc/admin/customizer/customizer-options.php:2742
+#: inc/admin/customizer/customizer-options.php:2849
+#: inc/admin/customizer/customizer-options.php:3070
+msgid "Background Repeat"
+msgstr "Hintergrund wiederholen"
+
+#: inc/admin/customizer/customizer-options.php:652
+#: inc/admin/customizer/customizer-options.php:947
+#: inc/admin/customizer/customizer-options.php:1276
+#: inc/admin/customizer/customizer-options.php:1463
+#: inc/admin/customizer/customizer-options.php:1657
+#: inc/admin/customizer/customizer-options.php:2745
+#: inc/admin/customizer/customizer-options.php:2852
+#: inc/admin/customizer/customizer-options.php:3076
+msgid "no-repeat"
+msgstr "Nicht wiederholen (No-repeat)"
+
+#: inc/admin/customizer/customizer-options.php:653
+#: inc/admin/customizer/customizer-options.php:948
+#: inc/admin/customizer/customizer-options.php:1277
+#: inc/admin/customizer/customizer-options.php:1464
+#: inc/admin/customizer/customizer-options.php:1658
+#: inc/admin/customizer/customizer-options.php:2746
+#: inc/admin/customizer/customizer-options.php:2853
+#: inc/admin/customizer/customizer-options.php:3073
+msgid "repeat"
+msgstr "wiederholen"
+
+#: inc/admin/customizer/customizer-options.php:654
+#: inc/admin/customizer/customizer-options.php:949
+#: inc/admin/customizer/customizer-options.php:1278
+#: inc/admin/customizer/customizer-options.php:1465
+#: inc/admin/customizer/customizer-options.php:1659
+#: inc/admin/customizer/customizer-options.php:2747
+#: inc/admin/customizer/customizer-options.php:2854
+#: inc/admin/customizer/customizer-options.php:3074
+msgid "repeat-x"
+msgstr "horizontal wiederholen (repeat-x)"
+
+#: inc/admin/customizer/customizer-options.php:655
+#: inc/admin/customizer/customizer-options.php:950
+#: inc/admin/customizer/customizer-options.php:1279
+#: inc/admin/customizer/customizer-options.php:1466
+#: inc/admin/customizer/customizer-options.php:1660
+#: inc/admin/customizer/customizer-options.php:2748
+#: inc/admin/customizer/customizer-options.php:2855
+#: inc/admin/customizer/customizer-options.php:3075
+msgid "repeat-y"
+msgstr "vertikal wiederholen (repeat-y)"
+
+#: inc/admin/customizer/customizer-options.php:669
+#: inc/admin/customizer/customizer-options.php:964
+#: inc/admin/customizer/customizer-options.php:1293
+#: inc/admin/customizer/customizer-options.php:1480
+#: inc/admin/customizer/customizer-options.php:1674
+#: inc/admin/customizer/customizer-options.php:2762
+#: inc/admin/customizer/customizer-options.php:2869
+msgid "Background Position"
+msgstr "Hintergrundposition"
+
+#: inc/admin/customizer/customizer-options.php:672
+#: inc/admin/customizer/customizer-options.php:967
+#: inc/admin/customizer/customizer-options.php:1296
+#: inc/admin/customizer/customizer-options.php:1483
+#: inc/admin/customizer/customizer-options.php:1677
+#: inc/admin/customizer/customizer-options.php:2765
+#: inc/admin/customizer/customizer-options.php:2872
+msgid "center top"
+msgstr "mitte oben"
+
+#: inc/admin/customizer/customizer-options.php:673
+#: inc/admin/customizer/customizer-options.php:968
+#: inc/admin/customizer/customizer-options.php:1297
+#: inc/admin/customizer/customizer-options.php:1484
+#: inc/admin/customizer/customizer-options.php:1678
+#: inc/admin/customizer/customizer-options.php:2766
+#: inc/admin/customizer/customizer-options.php:2873
+msgid "center center"
+msgstr "mitte mitte"
+
+#: inc/admin/customizer/customizer-options.php:674
+#: inc/admin/customizer/customizer-options.php:969
+#: inc/admin/customizer/customizer-options.php:1298
+#: inc/admin/customizer/customizer-options.php:1485
+#: inc/admin/customizer/customizer-options.php:1679
+#: inc/admin/customizer/customizer-options.php:2767
+#: inc/admin/customizer/customizer-options.php:2874
+msgid "center bottom"
+msgstr "mitte unten"
+
+#: inc/admin/customizer/customizer-options.php:675
+#: inc/admin/customizer/customizer-options.php:970
+#: inc/admin/customizer/customizer-options.php:1299
+#: inc/admin/customizer/customizer-options.php:1486
+#: inc/admin/customizer/customizer-options.php:1680
+#: inc/admin/customizer/customizer-options.php:2768
+#: inc/admin/customizer/customizer-options.php:2875
+msgid "left top"
+msgstr "links oben"
+
+#: inc/admin/customizer/customizer-options.php:676
+#: inc/admin/customizer/customizer-options.php:971
+#: inc/admin/customizer/customizer-options.php:1300
+#: inc/admin/customizer/customizer-options.php:1487
+#: inc/admin/customizer/customizer-options.php:1681
+#: inc/admin/customizer/customizer-options.php:2769
+#: inc/admin/customizer/customizer-options.php:2876
+msgid "left center"
+msgstr "links mitte"
+
+#: inc/admin/customizer/customizer-options.php:677
+#: inc/admin/customizer/customizer-options.php:972
+#: inc/admin/customizer/customizer-options.php:1301
+#: inc/admin/customizer/customizer-options.php:1488
+#: inc/admin/customizer/customizer-options.php:1682
+#: inc/admin/customizer/customizer-options.php:2770
+#: inc/admin/customizer/customizer-options.php:2877
+msgid "left bottom"
+msgstr "links unten"
+
+#: inc/admin/customizer/customizer-options.php:678
+#: inc/admin/customizer/customizer-options.php:973
+#: inc/admin/customizer/customizer-options.php:1302
+#: inc/admin/customizer/customizer-options.php:1489
+#: inc/admin/customizer/customizer-options.php:1683
+#: inc/admin/customizer/customizer-options.php:2771
+#: inc/admin/customizer/customizer-options.php:2878
+msgid "right top"
+msgstr "rechts oben"
+
+#: inc/admin/customizer/customizer-options.php:679
+#: inc/admin/customizer/customizer-options.php:974
+#: inc/admin/customizer/customizer-options.php:1303
+#: inc/admin/customizer/customizer-options.php:1490
+#: inc/admin/customizer/customizer-options.php:1684
+#: inc/admin/customizer/customizer-options.php:2772
+#: inc/admin/customizer/customizer-options.php:2879
+msgid "right center"
+msgstr "rechts mitte"
+
+#: inc/admin/customizer/customizer-options.php:680
+#: inc/admin/customizer/customizer-options.php:975
+#: inc/admin/customizer/customizer-options.php:1304
+#: inc/admin/customizer/customizer-options.php:1491
+#: inc/admin/customizer/customizer-options.php:1685
+#: inc/admin/customizer/customizer-options.php:2773
+#: inc/admin/customizer/customizer-options.php:2880
+msgid "right bottom"
+msgstr "rechts unten"
+
+#: inc/admin/customizer/customizer-options.php:694
+#: inc/admin/customizer/customizer-options.php:989
+#: inc/admin/customizer/customizer-options.php:1318
+#: inc/admin/customizer/customizer-options.php:1505
+#: inc/admin/customizer/customizer-options.php:1699
+msgid "Section Background Color"
+msgstr "Hintergrundfarbe für Abschnitt"
+
+#: inc/admin/customizer/customizer-options.php:695
+#: inc/admin/customizer/customizer-options.php:990
+#: inc/admin/customizer/customizer-options.php:1319
+#: inc/admin/customizer/customizer-options.php:1506
+#: inc/admin/customizer/customizer-options.php:1700
+msgid "Custom background color of section"
+msgstr "Benutzerdefinierte Hintergrundfarbe des Abschnitts"
+
+#: inc/admin/customizer/customizer-options.php:725
+#, php-format
+msgid "Enable Testimonial %d"
+msgstr "Testimonial %d aktivieren"
+
+#: inc/admin/customizer/customizer-options.php:734
+#, php-format
+msgid "Testimonial %d Avatar"
+msgstr "Testimonial %d Avatar"
+
+#: inc/admin/customizer/customizer-options.php:735
+#, php-format
+msgid ""
+"Upload an image for the Testimonial %d, or specify an image URL directly"
+msgstr ""
+"Laden Sie ein Bild für Testimonial %d hoch oder geben Sie eine Bild-URL an"
+
+#: inc/admin/customizer/customizer-options.php:750
+#, php-format
+msgid "Testimonial %d Name"
+msgstr "Testimonial %d Name"
+
+#: inc/admin/customizer/customizer-options.php:765
+#, php-format
+msgid "Testimonial %d Content"
+msgstr "Testimonial %d Inhalt"
+
+#: inc/admin/customizer/customizer-options.php:790
+#: inc/admin/customizer/customizer.php:126
+#: inc/admin/customizer/customizer.php:139
+msgid "Testimonials"
+msgstr "Testmonials"
+
+#: inc/admin/customizer/customizer-options.php:801
+msgid "Enable Testimonials On Front Page"
+msgstr ""
+
+#: inc/admin/customizer/customizer-options.php:802
+msgid "Check this box if you want to enable Testimonials On Front Page"
+msgstr ""
+
+#: inc/admin/customizer/customizer-options.php:824
+msgid "Background Color"
+msgstr "Hintergrundfarbe"
+
+#: inc/admin/customizer/customizer-options.php:838
+msgid "Text Color"
+msgstr "Textfarbe"
+
+#: inc/admin/customizer/customizer-options.php:859
+msgid "Title of Testimonials Section"
+msgstr "Titel des Abschnitts Testimonials"
+
+#: inc/admin/customizer/customizer-options.php:1020
+#, php-format
+msgid "Enable Counter Circle %d"
+msgstr "Zählerkreis %d aktivieren"
+
+#: inc/admin/customizer/customizer-options.php:1029
+#, php-format
+msgid "Counter Circle %d Icon"
+msgstr "Zählerkreissymbol %d"
+
+#: inc/admin/customizer/customizer-options.php:1030
+msgid "Click an icon to select"
+msgstr "Klicken Sie auf ein Symbol, um es auszuwählen"
+
+#: inc/admin/customizer/customizer-options.php:1046
+#, php-format
+msgid "Counter Circle %d Percentage"
+msgstr "Zählerkreis %d Prozentsatz"
+
+#: inc/admin/customizer/customizer-options.php:1047
+msgid "From 1% to 100%"
+msgstr "Von 1% bis 100%"
+
+#: inc/admin/customizer/customizer-options.php:1063
+#, php-format
+msgid "Counter Circle %d Text"
+msgstr "Zählerkreis %d Text"
+
+#: inc/admin/customizer/customizer-options.php:1064
+msgid "Insert text for counter circle box, keep it short"
+msgstr "Geben Sie den Text für die Box des Zählerkreises ein"
+
+#: inc/admin/customizer/customizer-options.php:1079
+#, php-format
+msgid "Counter Circle %d Filled Color"
+msgstr "Zählerkreis %d gefüllte Farbe"
+
+#: inc/admin/customizer/customizer-options.php:1080
+msgid "Controls the color of the filled in area"
+msgstr "Einstellung Farbe des ausgefüllten Bereichs"
+
+#: inc/admin/customizer/customizer-options.php:1094
+#, php-format
+msgid "Counter Circle %d Unfilled Color"
+msgstr "Zählerkreis %d ungefüllte Farbe"
+
+#: inc/admin/customizer/customizer-options.php:1095
+msgid "Controls the color of the unfilled in area"
+msgstr "Einstellung Farbe des Bereichs, der ungefüllt ist"
+
+#: inc/admin/customizer/customizer-options.php:1118
+msgid "Counter Circle"
+msgstr "Zählerkreis"
+
+#: inc/admin/customizer/customizer-options.php:1123
+msgid "Enable Counter Circles On Front Page"
+msgstr ""
+
+#: inc/admin/customizer/customizer-options.php:1124
+msgid "Check this box if you want to enable Counter Circles On Front Page"
+msgstr ""
+
+#: inc/admin/customizer/customizer-options.php:1156
+msgid "Counter Circle Text Font"
+msgstr "Schriftart für den Zählerkreis"
+
+#: inc/admin/customizer/customizer-options.php:1157
+msgid "Select the font and color of the counter circle text and icon"
+msgstr ""
+"Wählen Sie die Schriftart und Farbe für den Zählerkreis (Text und Symbol)"
+
+#: inc/admin/customizer/customizer-options.php:1188
+msgid "Title of Counter Circle Section"
+msgstr "Titel des Zählerkreis-Abschnitts"
+
+#: inc/admin/customizer/customizer-options.php:1347
+#: inc/admin/customizer/customizer.php:128
+msgid "WooCommerce Products"
+msgstr "WooCommerce Produkte"
+
+#: inc/admin/customizer/customizer-options.php:1352
+msgid "Product Categories"
+msgstr "Produktkategorien"
+
+#: inc/admin/customizer/customizer-options.php:1353
+msgid "Please select a category which contains some products"
+msgstr "Bitte wählen Sie eine Kategorie, die einige Produkte enthält"
+
+#: inc/admin/customizer/customizer-options.php:1360
+msgid "Number Of Products To Display"
+msgstr "Anzahl der anzuzeigenden Produkte"
+
+#: inc/admin/customizer/customizer-options.php:1361
+msgid "Select the number of Products To Display"
+msgstr "Wählen Sie die Anzahl der anzuzeigenden Produkte"
+
+#: inc/admin/customizer/customizer-options.php:1375
+msgid "Title of WooCommerce Product Section"
+msgstr "Titel des WooCommerce Produktbereich"
+
+#: inc/admin/customizer/customizer-options.php:1535
+#: inc/admin/customizer/customizer-options.php:1554
+#: inc/admin/customizer/customizer.php:129
+#: inc/admin/customizer/customizer.php:141
+msgid "Custom Content"
+msgstr "Individueller Inhalt"
+
+#: inc/admin/customizer/customizer-options.php:1540
+msgid "Enable Custom Content On Front Page"
+msgstr ""
+
+#: inc/admin/customizer/customizer-options.php:1541
+msgid "Check this box if you want to enable Custom Content On Front Page"
+msgstr ""
+
+#: inc/admin/customizer/customizer-options.php:1547
+msgid "Custom Content Element"
+msgstr "Individuelle Inhaltsbox"
+
+#: inc/admin/customizer/customizer-options.php:1555
+msgid "Add Custom Content to Front Page"
+msgstr "Füge benutzerdefinierten Inhalt zur Startseite"
+
+#: inc/admin/customizer/customizer-options.php:1569
+msgid "Title of Custom Content Section"
+msgstr "Titel der benutzerdefinierten Bereichs"
+
+#: inc/admin/customizer/customizer-options.php:1727
+#: inc/admin/customizer/customizer-options.php:1738
+#: inc/admin/metaboxes/metaboxes.php:279
+msgid "Header"
+msgstr "Header"
+
+#: inc/admin/customizer/customizer-options.php:1743
+msgid "Header Padding"
+msgstr "Header-Innenabstand"
+
+#: inc/admin/customizer/customizer-options.php:1744
+msgid "Enter the header padding"
+msgstr "Geben Sie den Abstand für den Header ein"
+
+#: inc/admin/customizer/customizer-options.php:1780
+#: inc/admin/customizer/customizer-options.php:1837
+msgid "Enable Searchbox"
+msgstr "Searchbox aktivieren"
+
+#: inc/admin/customizer/customizer-options.php:1781
+msgid "Check this box if you want to display searchbox in the Header"
+msgstr ""
+"Aktivieren Sie dieses Kontrollkästchen, wenn Sie das Suchfeld im Header "
+"anzeigen möchten"
+
+#: inc/admin/customizer/customizer-options.php:1791
+msgid "General Slider Position"
+msgstr "Generelle Slider-Position"
+
+#: inc/admin/customizer/customizer-options.php:1792
+msgid ""
+"Select if the slider shows below or above the header. This only works for "
+"the slider assigned in Post/Page Options, not in Front Page. This option can "
+"be overridden per post/page setting"
+msgstr ""
+
+#: inc/admin/customizer/customizer-options.php:1795
+msgid "Below Header"
+msgstr "Unter dem Header"
+
+#: inc/admin/customizer/customizer-options.php:1796
+msgid "Above Header"
+msgstr "Über dem Header"
+
+#: inc/admin/customizer/customizer-options.php:1802
+msgid "Choose Header Type"
+msgstr "Header-Typ auswählen"
+
+#: inc/admin/customizer/customizer-options.php:1803
+msgid "Choose your Header Type"
+msgstr "Wählen Sie Ihren Header-Typ"
+
+#: inc/admin/customizer/customizer-options.php:1821
+msgid "Sticky Header"
+msgstr "Oben gehaltener Header"
+
+#: inc/admin/customizer/customizer-options.php:1826
+msgid "Enable Sticky Header"
+msgstr "Oben gehaltenen Header aktivieren"
+
+#: inc/admin/customizer/customizer-options.php:1827
+msgid "Check this box if you want to display Sticky Header"
+msgstr ""
+"Aktivieren Sie dieses Kontrollkästchen, wenn Sie den Header oben halten "
+"möchten"
+
+#: inc/admin/customizer/customizer-options.php:1838
+msgid "Check this box if you want to display searchbox in the Sticky Header"
+msgstr ""
+"Aktivieren Sie dieses Kontrollkästchen, wenn Sie die Searchbox im oben "
+"gehalten Header anzeigen möchten"
+
+#: inc/admin/customizer/customizer-options.php:1859
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/admin/customizer/customizer-options.php:1864
+msgid "Custom Logo"
+msgstr "Benutzerdefiniertes Logo"
+
+#: inc/admin/customizer/customizer-options.php:1865
+msgid "Upload a logo for your website, or specify an image URL directly"
+msgstr ""
+"Laden Sie ein Logo für die Website hoch oder geben Sie eine Bild-URL an"
+
+#: inc/admin/customizer/customizer-options.php:1873
+msgid "Logo Position"
+msgstr "Logo-Position"
+
+#: inc/admin/customizer/customizer-options.php:1874
+msgid "Choose the position of your Custom Logo for Header #1"
+msgstr "Wählen Sie die Position Ihres benutzerdefinierten Logos für Header #1"
+
+#: inc/admin/customizer/customizer-options.php:1877
+#: inc/admin/customizer/customizer-options.php:5051
+msgid "Left"
+msgstr "Links"
+
+#: inc/admin/customizer/customizer-options.php:1878
+msgid "Center"
+msgstr "Zentriert"
+
+#: inc/admin/customizer/customizer-options.php:1879
+#: inc/admin/customizer/customizer-options.php:5052
+msgid "Right"
+msgstr "Rechts"
+
+#: inc/admin/customizer/customizer-options.php:1894
+#: inc/admin/customizer/customizer-options.php:2165
+msgid "Website Title & Tagline"
+msgstr "Titel und Untertitel der Website"
+
+#: inc/admin/customizer/customizer-options.php:1899
+msgid "Disable Website Title"
+msgstr "Website-Titel deaktivieren"
+
+#: inc/admin/customizer/customizer-options.php:1900
+msgid "Check this box if you don't want to display title of your website"
+msgstr ""
+"Aktivieren Sie dieses Kontrollkästchen, wenn der Titel Ihrer Website nicht "
+"angezeigt werden soll"
+
+#: inc/admin/customizer/customizer-options.php:1906
+msgid "Website Tagline Position"
+msgstr "Position des Website-Untertitels"
+
+#: inc/admin/customizer/customizer-options.php:1907
+msgid "Choose the position of website tagline"
+msgstr "Wählen Sie die Position für den Website-Untertitel"
+
+#: inc/admin/customizer/customizer-options.php:1910
+msgid "Next to Website Title"
+msgstr "Neben dem Titel der Website"
+
+#: inc/admin/customizer/customizer-options.php:1911
+msgid "Above Website Title"
+msgstr "Über Website-Titel"
+
+#: inc/admin/customizer/customizer-options.php:1912
+msgid "Under Website Title"
+msgstr "Unter Website-Titel"
+
+#: inc/admin/customizer/customizer-options.php:1927
+#: inc/admin/customizer/customizer-options.php:2238
+#: inc/admin/customizer/customizer-options.php:2947
+msgid "Menu"
+msgstr "Menü"
+
+#: inc/admin/customizer/customizer-options.php:1932
+msgid "Disable Main Menu"
+msgstr "Hauptmenü deaktivieren"
+
+#: inc/admin/customizer/customizer-options.php:1933
+msgid "Check this box if you don't want to display main menu"
+msgstr ""
+"Aktivieren Sie dieses Kontrollkästchen, wenn Sie das Hauptmenü nicht "
+"anzeigen möchten"
+
+#: inc/admin/customizer/customizer-options.php:1938
+msgid "Menu Item Hover Effect"
+msgstr "Mauszeigerkontakt-Effekte bei Menü-Elementen"
+
+#: inc/admin/customizer/customizer-options.php:1939
+msgid "Select the main menu hover effect"
+msgstr "Wählen Sie den Hauptmenü-Effekt bei Mauszeigerkontakt"
+
+#: inc/admin/customizer/customizer-options.php:1942
+msgid "Rollover"
+msgstr "Rollover"
+
+#: inc/admin/customizer/customizer-options.php:1952
+msgid "Padding Between Menu Items"
+msgstr "Innenabstand zwischen den Menüpunkten"
+
+#: inc/admin/customizer/customizer-options.php:1953
+msgid "Padding between menu items in px"
+msgstr "Innenabstand zwischen den Menüpunkten in px"
+
+#: inc/admin/customizer/customizer-options.php:1977
+msgid "Main Menu Height"
+msgstr "Höhe des Hauptmenüs"
+
+#: inc/admin/customizer/customizer-options.php:1978
+msgid "Select the main menu height"
+msgstr "Wählen Sie die Höhe für das Hauptmenü"
+
+#: inc/admin/customizer/customizer-options.php:1998
+msgid "Responsive Menu Layout"
+msgstr "Responsives Menü-Layout"
+
+#: inc/admin/customizer/customizer-options.php:1999
+msgid "Choose the layout of responsive menu on smaller screen sizes"
+msgstr ""
+"Wählen Sie das Layout des responsiven Menüs auf kleinere Bildschirmgrößen"
+
+#: inc/admin/customizer/customizer-options.php:2002
+msgid "Closed Submenu Items"
+msgstr "Geschlossene Untermenüpunkte"
+
+#: inc/admin/customizer/customizer-options.php:2003
+msgid "Open Submenu Items"
+msgstr "Geöffnete Untermenüpunkte"
+
+#: inc/admin/customizer/customizer-options.php:2020
+msgid "Header Widgets"
+msgstr "Header-Widgets"
+
+#: inc/admin/customizer/customizer-options.php:2025
+msgid "Number of Widget Cols in The Header Block"
+msgstr "Anzahl der Spalten für Widgets im Header"
+
+#: inc/admin/customizer/customizer-options.php:2026
+msgid "Select how many header widget areas you want to display in Header Block"
+msgstr ""
+"Wählen Sie, wie viele Header-Widget-Bereiche im Header-Block angezeigt "
+"werden sollen"
+
+#: inc/admin/customizer/customizer-options.php:2039
+msgid "Header Widgets Placement"
+msgstr "Platzierung für Header-Widgets"
+
+#: inc/admin/customizer/customizer-options.php:2040
+msgid "Choose where to display header widgets"
+msgstr "Wählen Sie, wo Header-Widgets angezeigt werden sollen"
+
+#: inc/admin/customizer/customizer-options.php:2043
+msgid "Front Page"
+msgstr "Startseite"
+
+#: inc/admin/customizer/customizer-options.php:2044
+msgid "Single Post"
+msgstr "Einzelner Beitrag"
+
+#: inc/admin/customizer/customizer-options.php:2045
+msgid "Only Pages"
+msgstr "Nur Seiten"
+
+#: inc/admin/customizer/customizer-options.php:2046
+msgid "All Website"
+msgstr "Komplette Website"
+
+#: inc/admin/customizer/customizer-options.php:2047
+msgid "Select Per Post/Page Options"
+msgstr "Wählen Sie jeweils Beitrags-/Seiten-Optionen"
+
+#: inc/admin/customizer/customizer-options.php:2061
+msgid "Footer"
+msgstr "Footer"
+
+#: inc/admin/customizer/customizer-options.php:2072
+msgid "Footer Widgets"
+msgstr "Footer-Widgets"
+
+#: inc/admin/customizer/customizer-options.php:2077
+msgid "Number of Widget Cols in Footer"
+msgstr "Anzahl der Spalten für Widgets im Footer"
+
+#: inc/admin/customizer/customizer-options.php:2078
+msgid "Select how many footer widget areas you want to display"
+msgstr "Wählen Sie, wie viele Footer-Widget-Bereiche Sie anzeigen möchten"
+
+#: inc/admin/customizer/customizer-options.php:2099
+#: inc/admin/customizer/customizer-options.php:2104
+msgid "Custom Footer"
+msgstr "Benutzerdefinierter Footer"
+
+#: inc/admin/customizer/customizer-options.php:2105
+#, php-format
+msgid ""
+"Available %1$sHTML%2$s tags and attributes: %3$s Default: %4$s<div "
+"id=\"copyright\"><a href=\"%5$s\">evolve</a> theme by Theme4Press - Powered "
+"by <a href=\"http://wordpress.org\">WordPress</a></div>%6$s"
+msgstr ""
+"Verfügbare%1$sHTML%2$s Tags und Attribute:%3$s Standard:%4$s <div "
+"id=\"copyright\"> <a href=\"%5$s\">entwickeln</a> Theme von Theme4Press - "
+"Powered by <a href=\"http://wordpress.org\">WordPress</a> </div> %6$s"
+
+#: inc/admin/customizer/customizer-options.php:2121
+msgid "Typography"
+msgstr "Typografie"
+
+#: inc/admin/customizer/customizer-options.php:2132
+msgid "Website Body"
+msgstr "Website-Body"
+
+#: inc/admin/customizer/customizer-options.php:2137
+msgid "Website Body Font"
+msgstr "Schriftart für Website-Body "
+
+#: inc/admin/customizer/customizer-options.php:2138
+msgid "Select the typography you want for your Website Body"
+msgstr "Wählen Sie die gewünschte Typografie für Ihren Website-Body"
+
+#: inc/admin/customizer/customizer-options.php:2170
+msgid "Website Title Font"
+msgstr "Schriftart für Website-Titel"
+
+#: inc/admin/customizer/customizer-options.php:2171
+msgid "Select the typography you want for your Website Title"
+msgstr "Wählen Sie die gewünschte Typografie für Ihren Website-Titel"
+
+#: inc/admin/customizer/customizer-options.php:2190
+msgid "Website Tagline Font"
+msgstr " Schriftart für Website-Untertitel"
+
+#: inc/admin/customizer/customizer-options.php:2191
+msgid "Select the typography you want for your Website Tagline"
+msgstr "Wählen Sie die gewünschte Typografie für Ihren Website-Untertitel"
+
+#: inc/admin/customizer/customizer-options.php:2210
+msgid "Sticky Header Website Title Font"
+msgstr "Schriftart für den oben gehaltenen Website-Titel des Header"
+
+#: inc/admin/customizer/customizer-options.php:2211
+msgid "Select the typography you want for your Sticky Header Website Title"
+msgstr "Wählen Sie die Typografie für den oben gehaltenen Header-Titel"
+
+#: inc/admin/customizer/customizer-options.php:2243
+msgid "Main Menu Font"
+msgstr "Hauptmenü-Schriftart"
+
+#: inc/admin/customizer/customizer-options.php:2244
+msgid "Select the typography you want for your Main Menu"
+msgstr "Wählen Sie die gewünschte Typografie für Ihr Hauptmenü"
+
+#: inc/admin/customizer/customizer-options.php:2271
+msgid "Widget"
+msgstr "Widget"
+
+#: inc/admin/customizer/customizer-options.php:2276
+msgid "Widget Title Font"
+msgstr "Schriftart Widget-Titel "
+
+#: inc/admin/customizer/customizer-options.php:2277
+msgid "Select the typography you want for your Widget Title"
+msgstr "Wählen Sie die gewünschte Typografie für den Widget-Titel aus"
+
+#: inc/admin/customizer/customizer-options.php:2296
+msgid "Widget Content Font"
+msgstr "Widget-Content-Schriftart"
+
+#: inc/admin/customizer/customizer-options.php:2297
+msgid "Select the typography you want for your Widget Content"
+msgstr "Wählen Sie die gewünschte Typografie für den Widget-Inhalt aus"
+
+#: inc/admin/customizer/customizer-options.php:2324
+msgid "Post/Page Title & Content"
+msgstr "Beitrag-/Seitentitel und -inhalt"
+
+#: inc/admin/customizer/customizer-options.php:2329
+msgid "Post/Page Title Font"
+msgstr "Schriftart des Beitrags-/Seitentitels"
+
+#: inc/admin/customizer/customizer-options.php:2330
+msgid "Select the typography you want for your Post/Page Title"
+msgstr "Wählen Sie die Typografie für den Beitrags-/Seiten-Titel"
+
+#: inc/admin/customizer/customizer-options.php:2349
+msgid "Post/Page Content Font"
+msgstr "Schriftart für Beitrag-/Seiten-Inhalt"
+
+#: inc/admin/customizer/customizer-options.php:2350
+msgid "Select the typography you want for your Website Post/Page Content"
+msgstr ""
+"Wählen Sie die gewünschte Typografie für Ihren Website-Beitrags-/Seiteninhalt"
+
+#: inc/admin/customizer/customizer-options.php:2382
+msgid "Content Boxes Title Font"
+msgstr "Schriftart für den Titel der Content-Boxen"
+
+#: inc/admin/customizer/customizer-options.php:2383
+msgid "Select the typography you want for your Content Boxes Title"
+msgstr "Wählen Sie die Typografie für den Titel der Inhalts-Boxen"
+
+#: inc/admin/customizer/customizer-options.php:2402
+msgid "Content Boxes Description Font"
+msgstr "Schriftart für die Beschreibung der Content-Boxen"
+
+#: inc/admin/customizer/customizer-options.php:2403
+msgid "Select the typography you want for your Content Boxes Description"
+msgstr "Wählen Sie die Typografie für die Beschreibung der Inhalts-Boxen"
+
+#: inc/admin/customizer/customizer-options.php:2430
+msgid "Footer Copyright"
+msgstr "Copyright im Footer"
+
+#: inc/admin/customizer/customizer-options.php:2435
+msgid "Footer Copyright Font"
+msgstr "Schriftgröße für das Copyright im Footer"
+
+#: inc/admin/customizer/customizer-options.php:2436
+msgid "Select the typography you want for your Footer Copyright"
+msgstr "Wählen Sie die Typografie für den Footer mit dem Copyright"
+
+#: inc/admin/customizer/customizer-options.php:2463
+msgid "Headings"
+msgstr "Überschriften"
+
+#: inc/admin/customizer/customizer-options.php:2468
+msgid "H1 Font"
+msgstr "H1 Schriftart"
+
+#: inc/admin/customizer/customizer-options.php:2469
+msgid ""
+"Select the typography you want for your H1 tag in Website Post/Page Content"
+msgstr ""
+"Wählen Sie die Typografie für den H1-tag im Beitrags-/Seiteninhalt der "
+"Website"
+
+#: inc/admin/customizer/customizer-options.php:2488
+msgid "H2 Font"
+msgstr "H2 Schriftart"
+
+#: inc/admin/customizer/customizer-options.php:2489
+msgid ""
+"Select the typography you want for your H2 tag in Website Post/Page Content"
+msgstr ""
+"Wählen Sie die Typografie für den H2-tag im Beitrags-/Seiteninhalt der "
+"Website"
+
+#: inc/admin/customizer/customizer-options.php:2508
+msgid "H3 Font"
+msgstr "H3 Schriftart"
+
+#: inc/admin/customizer/customizer-options.php:2509
+msgid ""
+"Select the typography you want for your H3 tag in Website Post/Page Content"
+msgstr ""
+"Wählen Sie die Typografie für den H3-tag im Beitrags-/Seiteninhalt der "
+"Website"
+
+#: inc/admin/customizer/customizer-options.php:2528
+msgid "H4 Font"
+msgstr "H4 Schriftart"
+
+#: inc/admin/customizer/customizer-options.php:2529
+msgid ""
+"Select the typography you want for your H4 tag in Website Post/Page Content"
+msgstr ""
+"Wählen Sie die Typografie für den H4-tag im Beitrags-/Seiteninhalt der "
+"Website"
+
+#: inc/admin/customizer/customizer-options.php:2548
+msgid "H5 Font"
+msgstr "H5 Schriftart"
+
+#: inc/admin/customizer/customizer-options.php:2549
+msgid ""
+"Select the typography you want for your H5 tag in Website Post/Page Content"
+msgstr ""
+"Wählen Sie die Typografie für den H5-tag im Beitrags-/Seiteninhalt der "
+"Website"
+
+#: inc/admin/customizer/customizer-options.php:2568
+msgid "H6 Font"
+msgstr "H6 Schriftart"
+
+#: inc/admin/customizer/customizer-options.php:2569
+msgid ""
+"Select the typography you want for your H6 tag in Website Post/Page Content"
+msgstr ""
+"Wählen Sie die Typografie für den H6-tag im Beitrags-/Seiteninhalt der "
+"Website"
+
+#: inc/admin/customizer/customizer-options.php:2596
+#: inc/admin/metaboxes/metaboxes.php:280
+msgid "Breadcrumbs"
+msgstr "Breadcrumbs"
+
+#: inc/admin/customizer/customizer-options.php:2601
+msgid "Enable Breadcrumbs Navigation"
+msgstr "Breadcrumbs-Navigation aktivieren"
+
+#: inc/admin/customizer/customizer-options.php:2602
+msgid "Check this box if you want to enable Breadcrumbs Navigation"
+msgstr ""
+"Aktivieren Sie dieses Kontrollkästchen, wenn Sie die Breadcrumb Navigation "
+"aktivieren möchten"
+
+#: inc/admin/customizer/customizer-options.php:2618
+msgid "Styling"
+msgstr "Styling"
+
+#: inc/admin/customizer/customizer-options.php:2629
+#: inc/admin/customizer/customizer-options.php:2634
+msgid "Main Color Scheme"
+msgstr "Haupt-Farbschema"
+
+#: inc/admin/customizer/customizer-options.php:2635
+msgid "Please select the predefined color scheme for your website"
+msgstr "Bitte wählen Sie das vordefinierte Farbschema für Ihre Website"
+
+#: inc/admin/customizer/customizer-options.php:2712
+msgid "Header & Footer"
+msgstr "Header & Footer"
+
+#: inc/admin/customizer/customizer-options.php:2717
+msgid "Header Styling"
+msgstr "Header-Styling"
+
+#: inc/admin/customizer/customizer-options.php:2722
+msgid "Header Background Image Responsiveness Style"
+msgstr "Hintergrundbild responsiver Stil für den Header"
+
+#: inc/admin/customizer/customizer-options.php:2723
+msgid ""
+"Select if the header background image should be displayed in cover or "
+"contain size. Change "
+msgstr ""
+"Wählen Sie aus, ob das Hintergrundbild des headers komplett angezeigt oder "
+"komplett ausgefüllt werden soll. Ändern "
+
+#: inc/admin/customizer/customizer-options.php:2787
+msgid "Header Color"
+msgstr "Header-Farbe"
+
+#: inc/admin/customizer/customizer-options.php:2788
+msgid "Custom background color of Header"
+msgstr "Benutzerdefinierte Hintergrundfarbe des Header"
+
+#: inc/admin/customizer/customizer-options.php:2802
+msgid "Footer Styling"
+msgstr "Footer-Styling"
+
+#: inc/admin/customizer/customizer-options.php:2807
+msgid "Footer Reveal Effect"
+msgstr "Footer Reveal Effekt"
+
+#: inc/admin/customizer/customizer-options.php:2808
+msgid "Check this box if you want to enable Footer Reveal Effect"
+msgstr ""
+"Aktivieren Sie dieses Kontrollkästchen, wenn Sie den Footer Reveal Effect "
+"aktivieren möchten"
+
+#: inc/admin/customizer/customizer-options.php:2814
+msgid "Footer Image"
+msgstr "Bild im Footer"
+
+#: inc/admin/customizer/customizer-options.php:2815
+msgid ""
+"Upload a footer background image for your website, or specify an image URL "
+"directly"
+msgstr "Laden Sie ein Footer-Logo hoch oder geben Sie eine Bild-URL an"
+
+#: inc/admin/customizer/customizer-options.php:2829
+msgid "Footer Background Image Responsiveness Style"
+msgstr "Hintergrundbild responsiver Stil für den Footer"
+
+#: inc/admin/customizer/customizer-options.php:2830
+msgid ""
+"Select if the footer background image should be displayed in cover or "
+"contain size"
+msgstr ""
+"Wählen Sie aus, ob das Hintergrundbild des footer komplett angezeigt oder "
+"komplett ausgefüllt werden soll"
+
+#: inc/admin/customizer/customizer-options.php:2894
+msgid "Footer Color"
+msgstr "Farbe für den Footer"
+
+#: inc/admin/customizer/customizer-options.php:2895
+msgid "Custom background color of Footer"
+msgstr "Benutzerdefinierte Hintergrundfarbe des Footers"
+
+#: inc/admin/customizer/customizer-options.php:2908
+msgid "Header & Footer Default Pattern"
+msgstr "Standardmuster für Header & Footer"
+
+#: inc/admin/customizer/customizer-options.php:2913
+msgid "Header and Footer Pattern"
+msgstr "Muster für Header und Footer"
+
+#: inc/admin/customizer/customizer-options.php:2914
+msgid "Choose the pattern for header and footer background"
+msgstr "Wählen Sie das Hintergrundmuster für Header und Footer"
+
+#: inc/admin/customizer/customizer-options.php:2952
+msgid "Main Menu Color"
+msgstr "Hauptmenü-Farbe"
+
+#: inc/admin/customizer/customizer-options.php:2953
+msgid "Custom background color of Main Menu"
+msgstr "Benutzerdefinierte Hintergrundfarbe des Hauptmenüs"
+
+#: inc/admin/customizer/customizer-options.php:2967
+msgid "Disable Main Menu Background Gradient, Shadow and Borders For Header #1"
+msgstr ""
+
+#: inc/admin/customizer/customizer-options.php:2968
+msgid ""
+"Check this box if you want to disable main menu background gradient, shadow "
+"effect and borders"
+msgstr ""
+"Aktivieren Sie dieses Kontrollkästchen, wenn Sie im Hauptmenü Hintergrund "
+"Farbverlauf, Schatten-Effekt und Rahmen deaktivieren möchten"
+
+#: inc/admin/customizer/customizer-options.php:2974
+#: inc/admin/customizer/customizer-options.php:3281
+msgid "Text Shadow Effect Color"
+msgstr "Text-Schatten-Effektfarbe"
+
+#: inc/admin/customizer/customizer-options.php:2975
+msgid "Enables the text shadow effect on the menu items"
+msgstr "Aktiviert den Textschatteneffekt für die Menüelemente"
+
+#: inc/admin/customizer/customizer-options.php:2978
+#: inc/admin/customizer/customizer-options.php:3141
+msgid "Light"
+msgstr "Light"
+
+#: inc/admin/customizer/customizer-options.php:2979
+#: inc/admin/customizer/customizer-options.php:3142
+msgid "Dark"
+msgstr "Dark"
+
+#: inc/admin/customizer/customizer-options.php:2988
+msgid "Top Bar Color"
+msgstr "Top-Bar-Farbe"
+
+#: inc/admin/customizer/customizer-options.php:2989
+msgid "Background color of Top Bar for Header #2"
+msgstr "Hintergrundfarbe der Top Bar für Header #2"
+
+#: inc/admin/customizer/customizer-options.php:3003
+msgid "Menu Hover Font Color"
+msgstr "Menü Schrift-Farbe bei Mauszeigerkontakt"
+
+#: inc/admin/customizer/customizer-options.php:3004
+msgid "Menu hover font color"
+msgstr "Menü Schrift-Farbe bei Mauszeigerkontakt"
+
+#: inc/admin/customizer/customizer-options.php:3026
+msgid "Header Block"
+msgstr "Header-Block"
+
+#: inc/admin/customizer/customizer-options.php:3031
+msgid "Color Scheme of The Header Block Area"
+msgstr "Farbschema für den Header-Bereich"
+
+#: inc/admin/customizer/customizer-options.php:3032
+msgid "Choose the color scheme for the Header Block area"
+msgstr "Wählen Sie das Farbschema für den Kopfzeilenbereich"
+
+#: inc/admin/customizer/customizer-options.php:3046
+msgid "Background Image of The Header Block Area"
+msgstr "Hintergrundbild des Kopfzeilenbereichs"
+
+#: inc/admin/customizer/customizer-options.php:3047
+msgid "Upload an image for the Header Block area"
+msgstr "Laden Sie ein Bild für den Kopfbereich hoch"
+
+#: inc/admin/customizer/customizer-options.php:3061
+msgid "100% Background Image"
+msgstr "100% Hintergrundbild"
+
+#: inc/admin/customizer/customizer-options.php:3062
+msgid ""
+"Have background image always at 100% in width and height and scale according "
+"to the browser size"
+msgstr ""
+"Das Hintergrundbild muss immer mit 100% in Breite und Höhe entsprechend der "
+"Browser Größe skaliert werden"
+
+#: inc/admin/customizer/customizer-options.php:3098
+msgid "Content"
+msgstr "Inhalt"
+
+#: inc/admin/customizer/customizer-options.php:3103
+msgid "Content Image"
+msgstr "Inhalt-Bild"
+
+#: inc/admin/customizer/customizer-options.php:3104
+msgid ""
+"Upload a content background image for your website, or specify an image URL "
+"directly"
+msgstr "Laden Sie ein Footer-Logo hoch oder geben Sie eine Bild-URL an"
+
+#: inc/admin/customizer/customizer-options.php:3118
+msgid "Content Background Image Responsiveness Style"
+msgstr "Hintergrundbild responsiver Stil für den Inhalt"
+
+#: inc/admin/customizer/customizer-options.php:3119
+msgid ""
+"Select if the content background image should be displayed in cover or "
+"contain size"
+msgstr ""
+"Wählen Sie aus, ob das Inhaltshintergrundbild komplett angezeigt oder "
+"komplett ausgefüllt werden soll"
+
+#: inc/admin/customizer/customizer-options.php:3137
+msgid "Content Color"
+msgstr "Inhaltsfarbe"
+
+#: inc/admin/customizer/customizer-options.php:3138
+msgid "Background color of content"
+msgstr "Hintergrundfarbe des Inhalts"
+
+#: inc/admin/customizer/customizer-options.php:3148
+msgid "Or Custom Content Color"
+msgstr "Oder individuelle Farbe für Inhalte "
+
+#: inc/admin/customizer/customizer-options.php:3149
+msgid "Custom background color of content area"
+msgstr "Benutzerdefinierte Hintergrundfarbe des Inhaltsbereichs"
+
+#: inc/admin/customizer/customizer-options.php:3170
+msgid "Widgets"
+msgstr "Widgets"
+
+#: inc/admin/customizer/customizer-options.php:3175
+msgid "Enable Widget Title Custom Background"
+msgstr ""
+"Aktivieren Sie den Hintergrund des benutzerdefinierten Titels bei Widgets"
+
+#: inc/admin/customizer/customizer-options.php:3176
+msgid ""
+"Check this box if you want to enable custom background for widget titles"
+msgstr ""
+"Aktivieren Sie dieses Kontrollkästchen, wenn Sie benutzerdefinierten "
+"Hintergrund für Widget Titel aktivieren möchten"
+
+#: inc/admin/customizer/customizer-options.php:3184
+msgid "Widget Title Custom Background"
+msgstr "Individueller Hintergrund beim Widget-Titel "
+
+#: inc/admin/customizer/customizer-options.php:3185
+msgid "Choose the color scheme for widgets background"
+msgstr "Wählen Sie das Farbschema für den Hintergrund der Widgets"
+
+#: inc/admin/customizer/customizer-options.php:3207
+msgid "Disable Widget Content Boxed Background"
+msgstr "Hintergrund der Widget-Inhalt-Box deaktivieren"
+
+#: inc/admin/customizer/customizer-options.php:3208
+msgid "Check this box if you want to disable widget content boxed background"
+msgstr ""
+"Aktivieren Sie dieses Kontrollkästchen, wenn Sie den Hintergrund für den "
+"Inhalt des Widgets deaktivieren möchten"
+
+#: inc/admin/customizer/customizer-options.php:3222
+msgid "Links"
+msgstr "Links"
+
+#: inc/admin/customizer/customizer-options.php:3227
+msgid "Primary Link Color"
+msgstr "Primäre Linkfarbe"
+
+#: inc/admin/customizer/customizer-options.php:3228
+msgid "Custom color for content links"
+msgstr "Benutzerdefinierte Farbe für Links im Inhalt"
+
+#: inc/admin/customizer/customizer-options.php:3242
+msgid "Secondary Link Color"
+msgstr "Sekundäre Linkfarbe"
+
+#: inc/admin/customizer/customizer-options.php:3243
+msgid "Custom color for links in post metas, widgets, navigation etc."
+msgstr ""
+"Individuelle Farbe bei Links in Beitrags-Meta, Widgets, Navigation usw."
+
+#: inc/admin/customizer/customizer-options.php:3265
+msgid "Shadows"
+msgstr "Schatten"
+
+#: inc/admin/customizer/customizer-options.php:3270
+msgid "Shadow Effect"
+msgstr "Schatteneffekt"
+
+#: inc/admin/customizer/customizer-options.php:3271
+msgid "Enables the shadow effect on the elements"
+msgstr "Aktiviert den Schatteneffekt für die Elemente"
+
+#: inc/admin/customizer/customizer-options.php:3282
+msgid "Select the text shadow effect custom color"
+msgstr ""
+"Wählen Sie den Text-Schatteneffekt bei der benutzerdefinierten Schattenfarbe"
+
+#: inc/admin/customizer/customizer-options.php:3304
+msgid "Components"
+msgstr "Komponenten"
+
+#: inc/admin/customizer/customizer-options.php:3315
+msgid "Buttons"
+msgstr "Buttons"
+
+#: inc/admin/customizer/customizer-options.php:3320
+msgid "Button Shape"
+msgstr "Schatten für Button"
+
+#: inc/admin/customizer/customizer-options.php:3321
+msgid "Select the default shape for buttons"
+msgstr "Wählen Sie die Standardform für Schatten bei Buttons"
+
+#: inc/admin/customizer/customizer-options.php:3324
+msgid "Square"
+msgstr "Quadratisch"
+
+#: inc/admin/customizer/customizer-options.php:3325
+msgid "Round"
+msgstr "Runden"
+
+#: inc/admin/customizer/customizer-options.php:3326
+msgid "Pill"
+msgstr "Pill"
+
+#: inc/admin/customizer/customizer-options.php:3332
+msgid "Button Type"
+msgstr "Button-Typ"
+
+#: inc/admin/customizer/customizer-options.php:3333
+msgid "Select the default button type"
+msgstr "﻿Wählen Sie den Standard für den Button-Typ"
+
+#: inc/admin/customizer/customizer-options.php:3336
+msgid "Flat"
+msgstr "Flat"
+
+#: inc/admin/customizer/customizer-options.php:3337
+msgid "3d"
+msgstr "3D"
+
+#: inc/admin/customizer/customizer-options.php:3343
+msgid "Button Gradient Top Color"
+msgstr "Verlaufsfarbe im oberen Bereich des Buttons"
+
+#: inc/admin/customizer/customizer-options.php:3344
+msgid "Controls the top color of the button gradients"
+msgstr "Einstellung für die Verlaufsfarbe im oberen Bereich des Buttons"
+
+#: inc/admin/customizer/customizer-options.php:3361
+msgid "Button Gradient Bottom Color"
+msgstr "Verlaufsfarbe im unteren Bereich des Buttons"
+
+#: inc/admin/customizer/customizer-options.php:3362
+msgid "Controls the bottom color of the button gradients"
+msgstr "Einstellung für die Verlaufsfarbe im unteren Bereich des Buttons"
+
+#: inc/admin/customizer/customizer-options.php:3379
+msgid "Button Gradient Top Hover Color"
+msgstr "Verlaufsfarbe im oberen Bereich des Buttons bei Mauszeigerkontakt"
+
+#: inc/admin/customizer/customizer-options.php:3380
+msgid "Controls the top hover color of the button gradients"
+msgstr ""
+"Einstellung für die Verlaufsfarbe im oberen Bereich des Buttons bei "
+"Mauszeigerkontakt"
+
+#: inc/admin/customizer/customizer-options.php:3397
+msgid "Button Gradient Bottom Hover Color"
+msgstr "Verlaufsfarbe im unteren Bereich des Buttons bei Mauszeigerkontakt"
+
+#: inc/admin/customizer/customizer-options.php:3398
+msgid "Controls the bottom hover color of the button gradients"
+msgstr "Einstellung untere Farbe des Button-Hintergrunds bei Mauszeigerkontakt"
+
+#: inc/admin/customizer/customizer-options.php:3415
+msgid "Button Accent Color"
+msgstr "Button-Akzentfarbe"
+
+#: inc/admin/customizer/customizer-options.php:3416
+msgid "This option controls the color of the button text and icon"
+msgstr "Diese Option regelt Farbe und Symbol des Button-Textes"
+
+#: inc/admin/customizer/customizer-options.php:3430
+msgid "Button Accent Hover Color"
+msgstr "Button-Farbe bei Mauszeigerkontakt"
+
+#: inc/admin/customizer/customizer-options.php:3431
+msgid "This option controls the hover color of the button text and icon"
+msgstr ""
+"Diese Option regelt Farbe und Symbol des Button-Textes bei Mauszeigerkontakt"
+
+#: inc/admin/customizer/customizer-options.php:3445
+msgid "Button Bevel Color (3D Mode Only)"
+msgstr "Button-Kegelfarbe (nur 3D-Modus)"
+
+#: inc/admin/customizer/customizer-options.php:3446
+msgid "Controls the default bevel color of the buttons"
+msgstr "Einstellung Standardfarbe für die Abschrägung der Tasten"
+
+#: inc/admin/customizer/customizer-options.php:3460
+msgid "Button Border Color"
+msgstr "Rahmenfarbe des Buttons"
+
+#: inc/admin/customizer/customizer-options.php:3461
+msgid "Controls the border color of the buttons"
+msgstr "Einstellung Rahmenfarbe der Buttons"
+
+#: inc/admin/customizer/customizer-options.php:3475
+msgid "Button Border Hover Color"
+msgstr "Button-Randfarbe bei Mauszeigerkontakt"
+
+#: inc/admin/customizer/customizer-options.php:3476
+msgid "Controls the border hover color of the buttons"
+msgstr "Einstellung Farbe der Buttons bei Mauszeigerkontakt"
+
+#: inc/admin/customizer/customizer-options.php:3490
+msgid "Button Border Width"
+msgstr "Rahmenbreite des Buttons"
+
+#: inc/admin/customizer/customizer-options.php:3491
+msgid "Select the border width for buttons in px"
+msgstr "Wählen Sie die Rahmenbreite für Buttons in px"
+
+#: inc/admin/customizer/customizer-options.php:3507
+msgid "Disable Flat Button Shadow"
+msgstr "Schatten des Buttons deaktivieren"
+
+#: inc/admin/customizer/customizer-options.php:3508
+msgid ""
+"Select the box to disable the inset shadow and text shadow on the flat "
+"button type"
+msgstr ""
+"Aktivieren Sie das Kontrollkästchen, um den eingefügten Schatten und den "
+"Textschatten bei dem Flat-Button-Typ zu deaktivieren"
+
+#: inc/admin/customizer/customizer-options.php:3514
+msgid "Button Hover Effect"
+msgstr "Button-Effekt bei Mauszeigerkontakt"
+
+#: inc/admin/customizer/customizer-options.php:3515
+msgid "Select the hover effect for buttons or disable it"
+msgstr ""
+"Wählen Sie den Effekt bei Mauszeigerkontakt für Buttons oder deaktivieren "
+"Sie ihn"
+
+#: inc/admin/customizer/customizer-options.php:3518
+msgid "Pulse"
+msgstr "Pulse"
+
+#: inc/admin/customizer/customizer-options.php:3519
+msgid "RubberBand"
+msgstr "Auswahlbegrenzung"
+
+#: inc/admin/customizer/customizer-options.php:3520
+msgid "Shake"
+msgstr "Shake"
+
+#: inc/admin/customizer/customizer-options.php:3521
+msgid "Swing"
+msgstr "Swing"
+
+#: inc/admin/customizer/customizer-options.php:3522
+msgid "Tada"
+msgstr "Tada"
+
+#: inc/admin/customizer/customizer-options.php:3523
+msgid "Wobble"
+msgstr "Wobble"
+
+#: inc/admin/customizer/customizer-options.php:3524
+msgid "Jello"
+msgstr "Jello"
+
+#: inc/admin/customizer/customizer-options.php:3539
+msgid "Forms"
+msgstr "Formulare"
+
+#: inc/admin/customizer/customizer-options.php:3544
+msgid "Text, TextArea"
+msgstr "Text, TextArea"
+
+#: inc/admin/customizer/customizer-options.php:3550
+msgid "Form Background Color"
+msgstr "Hintergrundfarbe für das Formular "
+
+#: inc/admin/customizer/customizer-options.php:3551
+msgid "Controls the background color of form text, textarea field"
+msgstr "Regelt die Hintergrundfarbe von Text und Textfeld bei Formularen"
+
+#: inc/admin/customizer/customizer-options.php:3565
+msgid "Form Text Color"
+msgstr "Textfarbe für das Formular"
+
+#: inc/admin/customizer/customizer-options.php:3566
+msgid "Controls the text, textarea color for forms"
+msgstr "Regelt Text- und Textfeld-Farbe bei Formularen"
+
+#: inc/admin/customizer/customizer-options.php:3580
+msgid "Form Border Color"
+msgstr "Rahmenfarbe für das Formular"
+
+#: inc/admin/customizer/customizer-options.php:3581
+msgid "Controls the border color of form text, textarea fields"
+msgstr "Regelt Rahmenfarbe von Formulartext und Textarea-Felder"
+
+#: inc/admin/customizer/customizer-options.php:3595
+msgid "Radio, CheckBox, Active/Focus Items"
+msgstr "Radio, Checkbox, aktiv/Focus-Elemente"
+
+#: inc/admin/customizer/customizer-options.php:3601
+msgid "Form Radio, CheckBox, Active/Focus Items Color"
+msgstr "Radio, CheckBox, aktiv/Focus Farbe der Elemente"
+
+#: inc/admin/customizer/customizer-options.php:3602
+msgid ""
+"Controls the color of form components - radio, checkbox, active/focus items "
+"etc."
+msgstr ""
+"Regelt die Farbe der Formularkomponenten - Radio, Checkbox, aktiv/Focus-"
+"Elemente usw.."
+
+#: inc/admin/customizer/customizer-options.php:3640
+msgid "Blog Layout"
+msgstr "Blog-Layout"
+
+#: inc/admin/customizer/customizer-options.php:3641
+msgid ""
+"Grid layout with 3 posts per row is recommended to use with disabled "
+"Sidebar(s)"
+msgstr ""
+"Gitterlayout mit 3 Beiträgen pro Zeile wird für die Verwendung bei "
+"deaktivierten Seitenleisten empfohlen."
+
+#: inc/admin/customizer/customizer-options.php:3652
+msgid "Archive Page Title"
+msgstr "Archiv-Seitentitel"
+
+#: inc/admin/customizer/customizer-options.php:3653
+msgid "Enable page title in archive pages"
+msgstr "Seitentitel auf Archivseiten aktivieren"
+
+#: inc/admin/customizer/customizer-options.php:3663
+msgid "'Share This' Buttons Placement"
+msgstr "Platzierung des „Teilen“-Button"
+
+#: inc/admin/customizer/customizer-options.php:3664
+msgid "Choose placement of the 'Share This' buttons"
+msgstr "Platzierung des „Teilen“-Button wählen"
+
+#: inc/admin/customizer/customizer-options.php:3667
+msgid "Single posts"
+msgstr "Einzelne Beiträge"
+
+#: inc/admin/customizer/customizer-options.php:3668
+msgid "Single posts + Archive pages"
+msgstr "Einzelne Beiträge + Archivseiten"
+
+#: inc/admin/customizer/customizer-options.php:3669
+msgid "All pages"
+msgstr "Alle Seiten"
+
+#: inc/admin/customizer/customizer-options.php:3676
+msgid "Pagination Type"
+msgstr "Art der Seitennummerierung"
+
+#: inc/admin/customizer/customizer-options.php:3677
+msgid ""
+"Select the pagination type for the assigned blog page in Settings > Reading."
+msgstr ""
+"Wählen Sie den Paginierungstyp für die zugeordneten Blogseite in den "
+"Einstellungen > Lesen."
+
+#: inc/admin/customizer/customizer-options.php:3680
+msgid "Navigation Links"
+msgstr "Navigationslinks"
+
+#: inc/admin/customizer/customizer-options.php:3681
+msgid "Number Pagination"
+msgstr "Seitennummerierung"
+
+#: inc/admin/customizer/customizer-options.php:3682
+msgid "Infinite Scroll"
+msgstr "Unendlich Scrollen"
+
+#: inc/admin/customizer/customizer-options.php:3688
+msgid "Position of Navigation Links"
+msgstr "Position des Navigations-Links"
+
+#: inc/admin/customizer/customizer-options.php:3689
+#, php-format
+msgid "Choose the position of the %1$sOlder/Newer Posts%2$s links"
+msgstr "Wählen Sie die Position der %1$sälteren/neueren Beitrags%2$s links"
+
+#: inc/admin/customizer/customizer-options.php:3692
+#: inc/admin/customizer/customizer-options.php:3756
+msgid "After Posts"
+msgstr "Nach den Beiträgen"
+
+#: inc/admin/customizer/customizer-options.php:3693
+#: inc/admin/customizer/customizer-options.php:3757
+msgid "Before Posts"
+msgstr "Vor den Beiträgen"
+
+#: inc/admin/customizer/customizer-options.php:3694
+#: inc/admin/customizer/customizer-options.php:3758
+msgid "Both"
+msgstr "Beide"
+
+#: inc/admin/customizer/customizer-options.php:3713
+msgid "Post Title Excerpt Length"
+msgstr "Titellänge bei Textauszügen"
+
+#: inc/admin/customizer/customizer-options.php:3714
+msgid ""
+"Enter number of characters for Post Title Excerpt. This works only if a grid "
+"layout is enabled"
+msgstr ""
+"Geben Sie die Anzahl der Zeichen für die Titellänge bei Textauszügen ein. "
+"Dies funktioniert nur, wenn ein Rasterlayout aktiviert ist"
+
+#: inc/admin/customizer/customizer-options.php:3722
+msgid "Enable Post Excerpts"
+msgstr "Beitragsauszüge aktivieren"
+
+#: inc/admin/customizer/customizer-options.php:3723
+msgid ""
+"Check this box if you want to display post excerpts on 1 column blog layout"
+msgstr ""
+"Aktivieren Sie dieses Kontrollkästchen, wenn Sie Auszüge des Beitrags im 1-"
+"Spalten-Blog-Layout anzeigen möchten"
+
+#: inc/admin/customizer/customizer-options.php:3731
+msgid "Enable Post Author Avatar"
+msgstr "Avatar des Beitragsautors einblenden"
+
+#: inc/admin/customizer/customizer-options.php:3732
+msgid "Check this box if you want to display post author avatar"
+msgstr ""
+"Aktivieren Sie dieses Kontrollkästchen, wenn Sie den Avatar des "
+"Beitragsautors anzeigen möchten"
+
+#: inc/admin/customizer/customizer-options.php:3740
+msgid "Post Meta Header Placement"
+msgstr "Hintergrund für Beitrag-Meta formatieren"
+
+#: inc/admin/customizer/customizer-options.php:3741
+msgid "Choose placement of the post meta header - Date, Author, Comments"
+msgstr ""
+"Wählen Sie die Platzierung des Beitragsmeta-Headers für Datum, Autor und "
+"Kommentar"
+
+#: inc/admin/customizer/customizer-options.php:3744
+msgid "Single Posts + Archive Pages"
+msgstr "Einzelne Beiträge + Archiv-Seiten"
+
+#: inc/admin/customizer/customizer-options.php:3745
+msgid "Single Posts"
+msgstr "Einzelne Beiträge"
+
+#: inc/admin/customizer/customizer-options.php:3752
+msgid "Position of Previous/Next Posts Links"
+msgstr "Position des vorherigen/nächsten Beiträge-Links"
+
+#: inc/admin/customizer/customizer-options.php:3753
+#, php-format
+msgid "Choose the position of the %1$sPrevious/Next Post%2$s links"
+msgstr "Wählen Sie die Position des %1$svorheriger/nächster Beitrag%2$s-links"
+
+#: inc/admin/customizer/customizer-options.php:3764
+msgid "Display Similar Posts"
+msgstr "Ähnliche Beiträge anzeigen"
+
+#: inc/admin/customizer/customizer-options.php:3765
+#, php-format
+msgid "Choose if you want to display %1$sSimilar posts%2$s in articles"
+msgstr ""
+"Wählen Sie aus, wenn Sie %1$sähnliche Beiträge%2$s in Artikeln anzeigen "
+"möchten."
+
+#: inc/admin/customizer/customizer-options.php:3769
+msgid "Match by Categories"
+msgstr "Treffer nach Kategorien"
+
+#: inc/admin/customizer/customizer-options.php:3770
+msgid "Match by Tags"
+msgstr "Treffer nach Schlagwörtern"
+
+#: inc/admin/customizer/customizer-options.php:3784
+msgid "Featured Image"
+msgstr "Beitragsbild"
+
+#: inc/admin/customizer/customizer-options.php:3789
+msgid "Enable Featured Images"
+msgstr "Ausgewählte Bilder aktivieren"
+
+#: inc/admin/customizer/customizer-options.php:3790
+msgid "Check this box if you want to display featured images"
+msgstr ""
+"Aktivieren Sie dieses Kontrollkästchen, wenn Sie Beitragsbilder anzeigen "
+"möchten"
+
+#: inc/admin/customizer/customizer-options.php:3796
+msgid "Enable Featured Image on Single Blog Posts"
+msgstr "Aktivieren Sie das Beitragsbild für einzelne Beiträge"
+
+#: inc/admin/customizer/customizer-options.php:3797
+msgid ""
+"Check this box if you want to display featured image on Single Blog Posts"
+msgstr ""
+"Aktivieren Sie dieses Kontrollkästchen, wenn Sie das Beitragsbild in "
+"einzelnen Beiträgen im Blog anzeigen möchten"
+
+#: inc/admin/customizer/customizer-options.php:3808
+msgid "Hide Placeholder Thumbnail Images"
+msgstr "Platzhalter-Miniaturbilder ausblenden"
+
+#: inc/admin/customizer/customizer-options.php:3809
+msgid "Turn on if you don't want to display placeholder thumbnail images"
+msgstr ""
+"Schalten Sie ein, wenn Sie keine Platzhalter-Vorschaubilder anzeigen möchten"
+
+#: inc/admin/customizer/customizer-options.php:3817
+msgid "Enable Hover Effect on Featured Images"
+msgstr "Effekt des Mauszeigerkontakts bei ausgewählten Bildern aktivieren"
+
+#: inc/admin/customizer/customizer-options.php:3818
+msgid "Check this box if you want to enable hover effect on featured images"
+msgstr ""
+"Aktivieren Sie dieses Kontrollkästchen, wenn Sie den Effekt bei "
+"Mauszeigerkontakt für die ausgewählten Bilder aktivieren möchten"
+
+#: inc/admin/customizer/customizer-options.php:3835
+msgid "Post Format"
+msgstr "Beitragsformat"
+
+#: inc/admin/customizer/customizer-options.php:3840
+msgid "Sticky Post Format Background"
+msgstr "Hintergrund für oben gehaltenes Beitragsformat"
+
+#: inc/admin/customizer/customizer-options.php:3841
+msgid ""
+"Check this box if you want to enable background color for sticky post format"
+msgstr ""
+"Aktivieren Sie dieses Kontrollkästchen, wenn Sie die Hintergrundfarbe für "
+"das oben gehaltene Beitragsformat aktivieren möchten"
+
+#: inc/admin/customizer/customizer-options.php:3849
+msgid "Aside Post Format Background"
+msgstr "Blog: Aside-Format-Hintergrund"
+
+#: inc/admin/customizer/customizer-options.php:3850
+msgid ""
+"Check this box if you want to enable background color for aside post format"
+msgstr ""
+"Aktivieren Sie dieses Kontrollkästchen, wenn Sie die Hintergrundfarbe für "
+"das Seitenbeitragsformat aktivieren möchten"
+
+#: inc/admin/customizer/customizer-options.php:3858
+msgid "Audio Post Format Background"
+msgstr "Hintergrund für das Audio-Beitragsformat"
+
+#: inc/admin/customizer/customizer-options.php:3859
+msgid ""
+"Check this box if you want to enable background color for audio post format"
+msgstr ""
+"Aktivieren Sie dieses Kontrollkästchen, wenn Sie die Hintergrundfarbe bei "
+"Audio-Beitragsformaten aktivieren möchten"
+
+#: inc/admin/customizer/customizer-options.php:3867
+msgid "Chat Post Format Background"
+msgstr "Hintergrund für Chat-Beitrag formatieren"
+
+#: inc/admin/customizer/customizer-options.php:3868
+msgid ""
+"Check this box if you want to enable background color for chat post format"
+msgstr ""
+"Aktivieren Sie dieses Kontrollkästchen, wenn Sie die Hintergrundfarbe für "
+"Beitragsformate im Chat aktivieren möchten"
+
+#: inc/admin/customizer/customizer-options.php:3876
+msgid "Gallery Post Format Background"
+msgstr "Hintergrund für Gallery-Beitrag formatieren"
+
+#: inc/admin/customizer/customizer-options.php:3877
+msgid ""
+"Check this box if you want to enable background color for gallery post format"
+msgstr ""
+"Aktivieren Sie dieses Kontrollkästchen, wenn Sie die Hintergrundfarbe für "
+"Beiträge im Galerieformat aktivieren möchten"
+
+#: inc/admin/customizer/customizer-options.php:3885
+msgid "Image Post Format Background"
+msgstr "Hintergrund für das Bild des Beitragsformats"
+
+#: inc/admin/customizer/customizer-options.php:3886
+msgid ""
+"Check this box if you want to enable background color for image post format"
+msgstr ""
+"Aktivieren Sie dieses Kontrollkästchen, wenn Sie die Hintergrundfarbe bei "
+"Bild-Beitragsformaten aktivieren möchten"
+
+#: inc/admin/customizer/customizer-options.php:3894
+msgid "Link Post Format Background"
+msgstr "Hintergrund für den Link des Beitragsformats"
+
+#: inc/admin/customizer/customizer-options.php:3895
+msgid ""
+"Check this box if you want to enable background color for link post format"
+msgstr ""
+"Aktivieren Sie dieses Kontrollkästchen, wenn Sie die Hintergrundfarbe für "
+"Beitragsformat bei Links aktivieren möchten"
+
+#: inc/admin/customizer/customizer-options.php:3903
+msgid "Quote Post Format Background"
+msgstr "Hintergrund Beitragsformat bei Zitat"
+
+#: inc/admin/customizer/customizer-options.php:3904
+msgid ""
+"Check this box if you want to enable background color for quote post format"
+msgstr ""
+"Aktivieren Sie dieses Kontrollkästchen, wenn Sie die Hintergrundfarbe "
+"Beitragsformat bei Zitaten aktivieren möchten"
+
+#: inc/admin/customizer/customizer-options.php:3912
+msgid "Status Post Format Background"
+msgstr "Hintergrund für den Status des Beitragsformats"
+
+#: inc/admin/customizer/customizer-options.php:3913
+msgid ""
+"Check this box if you want to enable background color for status post format"
+msgstr ""
+"Aktivieren Sie dieses Kontrollkästchen, wenn Sie die Hintergrundfarbe für "
+"den Status des Beitragsformats aktivieren möchten"
+
+#: inc/admin/customizer/customizer-options.php:3921
+msgid "Video Post Format Background"
+msgstr "Video-Nachbearbeitung Hintergrund formatieren"
+
+#: inc/admin/customizer/customizer-options.php:3922
+msgid ""
+"Check this box if you want to enable background color for video post format"
+msgstr ""
+"Aktivieren Sie dieses Kontrollkästchen, wenn Sie die Hintergrundfarbe für "
+"die Beitragsformat bei Videos aktivieren möchten"
+
+#: inc/admin/customizer/customizer-options.php:3938
+msgid "Social Media Links"
+msgstr "Links Soziale Medien "
+
+#: inc/admin/customizer/customizer-options.php:3943
+msgid "Enable Subscribe/Social Links in Header"
+msgstr "Aktivieren Sie abonnieren/Social Links im Header"
+
+#: inc/admin/customizer/customizer-options.php:3944
+msgid "Check this box if you want to display Subscribe/Social Links in header"
+msgstr ""
+"Aktivieren Sie dieses Kontrollkästchen, wenn Sie im Header Abonnements / "
+"soziale Links anzeigen möchten"
+
+#: inc/admin/customizer/customizer-options.php:3954
+msgid "Subscribe/Social Icons Color"
+msgstr "Abonnieren/Social Icons Farbe"
+
+#: inc/admin/customizer/customizer-options.php:3955
+msgid "Choose the color scheme of Subscribe/Social Icons"
+msgstr "Wählen Sie das Farbschema von Subscribe / Social Icons"
+
+#: inc/admin/customizer/customizer-options.php:3972
+msgid "Subscribe/Social Icons Size"
+msgstr "Abonnieren/Social Icons Größe"
+
+#: inc/admin/customizer/customizer-options.php:3973
+msgid "Choose the size of Subscribe/Social Icons"
+msgstr "Wählen Sie die Größe von Subscribe/Social Icons"
+
+#: inc/admin/customizer/customizer-options.php:3976
+msgid "Normal"
+msgstr "Normal"
+
+#: inc/admin/customizer/customizer-options.php:3977
+msgid "Small"
+msgstr "Klein"
+
+#: inc/admin/customizer/customizer-options.php:3978
+msgid "Large"
+msgstr "Groß"
+
+#: inc/admin/customizer/customizer-options.php:3979
+msgid "X-Large"
+msgstr "X-Large"
+
+#: inc/admin/customizer/customizer-options.php:4001
+msgid "Enable Social Media Links Border/Radius"
+msgstr "Social Media Links Grenze/Radius aktivieren"
+
+#: inc/admin/customizer/customizer-options.php:4002
+msgid ""
+"Select if you want to display social links with a border, border radius or "
+"disable it"
+msgstr ""
+"Wählen, wenn die Anzeige der sozialen Verknüpfungen mit einem Rand, Grenze "
+"Radius angezeigt werden sollen oder deaktivieren Sie diese Option"
+
+#: inc/admin/customizer/customizer-options.php:4041
+#, php-format
+msgid "Insert custom RSS Feed URL, e.g. %1$s%2$s%3$s"
+msgstr ""
+"Fügen Sie eine benutzerdefinierte RSS-Feed-URL ein, z.B. %1$s %2$s %3$s"
+
+#: inc/admin/customizer/customizer-options.php:4050
+#, php-format
+msgid ""
+"Insert custom newsletter URL, e.g. %1$shttp://feedburner.google."
+"com/fb/a/mailverify?uri=Example&amp;loc=en_US%2$s"
+msgstr ""
+"Fügen Sie eine individuelle Newsletter-URL ein, z.B. %1$shttp://feedburner."
+"google.com/fb/a/mailverify?uri=Example&amp;loc=en_US%2$s"
+
+#: inc/admin/customizer/customizer-options.php:4059
+msgid "Insert your Facebook URL"
+msgstr "Geben Sie Ihre Facebook-URL ein"
+
+#: inc/admin/customizer/customizer-options.php:4068
+msgid "Insert your Twitter URL"
+msgstr "Geben Sie Ihre Twitter-URL ein"
+
+#: inc/admin/customizer/customizer-options.php:4077
+msgid "Insert your Instagram URL"
+msgstr "Geben Sie Ihre Instagram-URL ein"
+
+#: inc/admin/customizer/customizer-options.php:4086
+msgid "Insert your Skype URL"
+msgstr "Geben Sie Ihre Skype-URL ein"
+
+#: inc/admin/customizer/customizer-options.php:4095
+msgid "Insert your YouTube URL"
+msgstr "Geben Sie Ihre YouTube-URL ein"
+
+#: inc/admin/customizer/customizer-options.php:4104
+msgid "Insert your Flickr URL"
+msgstr "Geben Sie Ihre Flickr-URL ein"
+
+#: inc/admin/customizer/customizer-options.php:4112
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: inc/admin/customizer/customizer-options.php:4113
+msgid "Insert your Linkedin profile URL"
+msgstr "Geben Sie Ihre Linkedin-URL ein"
+
+#: inc/admin/customizer/customizer-options.php:4122
+msgid "Insert your Google Plus profile URL"
+msgstr "Geben Sie Ihre Google Plus URL ein"
+
+#: inc/admin/customizer/customizer-options.php:4131
+msgid "Insert your Pinterest profile URL"
+msgstr "Geben Sie Ihre Pinterest-URL ein"
+
+#: inc/admin/customizer/customizer-options.php:4140
+msgid "Insert your Tumblr profile URL"
+msgstr "Geben Sie Ihre Tumblr-URL ein"
+
+#: inc/admin/customizer/customizer-options.php:4172
+msgid "Enable Bootstrap Slider"
+msgstr "Bootstrap-Slider aktivieren"
+
+#: inc/admin/customizer/customizer-options.php:4173
+msgid "Check this box if you want to enable Bootstrap Slider"
+msgstr ""
+"Aktivieren Sie dieses Kontrollkästchen, wenn Sie den Bootstrap-Slider "
+"aktivieren möchten"
+
+#: inc/admin/customizer/customizer-options.php:4179
+msgid "Enable Bootstrap Slider On Front Page"
+msgstr ""
+
+#: inc/admin/customizer/customizer-options.php:4180
+msgid "Check this box if you want to enable Bootstrap Slider On Front Page"
+msgstr ""
+
+#: inc/admin/customizer/customizer-options.php:4189
+msgid "Bootstrap Slider On All Website"
+msgstr ""
+
+#: inc/admin/customizer/customizer-options.php:4190
+msgid "Display Bootstrap Slider on all website?"
+msgstr "Bootstrap-Slider auf allen Seiten zeigen?"
+
+#: inc/admin/customizer/customizer-options.php:4199
+msgid "Disable Bootstrap Slides 100% Width Background"
+msgstr "Deaktivierung 100 % Hintergrundbreite bei Bootstrap-Slidern "
+
+#: inc/admin/customizer/customizer-options.php:4200
+msgid "Check this box to disable Bootstrap Slides 100% Width Background"
+msgstr ""
+"Aktivieren Sie dieses Kontrollkästchen, um den Bootstrap-Slider mit 100 % "
+"Breite beim Hintergrund auszuschalten"
+
+#: inc/admin/customizer/customizer-options.php:4208
+msgid "Speed"
+msgstr "Geschwindigkeit"
+
+#: inc/admin/customizer/customizer-options.php:4209
+msgid "Input the time between transitions (Default: 7000)"
+msgstr "Geben Sie die Zeit zwischen den Übergängen (Default: 7000) ein"
+
+#: inc/admin/customizer/customizer-options.php:4221
+msgid "Bootstrap Slider Title and Description Font"
+msgstr "Schriftart für Titel und Beschreibung des Bootstrap Slider"
+
+#: inc/admin/customizer/customizer-options.php:4230
+#: inc/admin/customizer/customizer-options.php:4553
+#: inc/admin/customizer/customizer-options.php:4909
+msgid "Slide Title Font"
+msgstr "Schriftart Slide-Titel "
+
+#: inc/admin/customizer/customizer-options.php:4231
+#: inc/admin/customizer/customizer-options.php:4554
+#: inc/admin/customizer/customizer-options.php:4910
+msgid "Select the typography you want for the slide title"
+msgstr "Wählen Sie die gewünschte Typografie für den Slider-Titel"
+
+#: inc/admin/customizer/customizer-options.php:4254
+#: inc/admin/customizer/customizer-options.php:4577
+#: inc/admin/customizer/customizer-options.php:4933
+msgid "Slide Title Font Background Color"
+msgstr "Hintergrundfarbe der Titel-Schriftart bei Slidern"
+
+#: inc/admin/customizer/customizer-options.php:4255
+#: inc/admin/customizer/customizer-options.php:4578
+#: inc/admin/customizer/customizer-options.php:4934
+msgid "Select the background color for the slide title"
+msgstr "Wählen Sie die Hintergrundfarbe für den Slider-Titel"
+
+#: inc/admin/customizer/customizer-options.php:4272
+#: inc/admin/customizer/customizer-options.php:4595
+#: inc/admin/customizer/customizer-options.php:4951
+msgid "Slide Description Font"
+msgstr "Schriftart für Slide-Beschreibung"
+
+#: inc/admin/customizer/customizer-options.php:4273
+#: inc/admin/customizer/customizer-options.php:4596
+#: inc/admin/customizer/customizer-options.php:4952
+msgid "Select the typography you want for the slide description"
+msgstr "Wählen Sie die Typografie für die Slideshow-Beschreibung"
+
+#: inc/admin/customizer/customizer-options.php:4296
+#: inc/admin/customizer/customizer-options.php:4619
+#: inc/admin/customizer/customizer-options.php:4975
+msgid "Slide Description Font Background Color"
+msgstr "Slide Beschreibung Schriftart Hintergrundfarbe"
+
+#: inc/admin/customizer/customizer-options.php:4297
+#: inc/admin/customizer/customizer-options.php:4620
+#: inc/admin/customizer/customizer-options.php:4976
+msgid "Select the background color for the slide description"
+msgstr "Wählen Sie die Hintergrundfarbe für die Slider-Beschreibung"
+
+#: inc/admin/customizer/customizer-options.php:4314
+msgid "Bootstrap Slider Content Responsiveness"
+msgstr "Responsiv-Einstellungen für den Bootstrap-Slider"
+
+#: inc/admin/customizer/customizer-options.php:4323
+#: inc/admin/customizer/customizer-options.php:4646
+#: inc/admin/customizer/customizer-options.php:5002
+msgid "Slide Title Visibility"
+msgstr "Sichtbarkeit des Slidertitels"
+
+#: inc/admin/customizer/customizer-options.php:4324
+#: inc/admin/customizer/customizer-options.php:4647
+#: inc/admin/customizer/customizer-options.php:5003
+msgid ""
+"Choose the MINIMUM screen resolution where the slide title will be visible"
+msgstr ""
+"Wählen Sie die minimale Bildschirmauflösung, bei der der Slider-Titel "
+"sichtbar werden soll"
+
+#: inc/admin/customizer/customizer-options.php:4327
+#: inc/admin/customizer/customizer-options.php:4343
+#: inc/admin/customizer/customizer-options.php:4650
+#: inc/admin/customizer/customizer-options.php:4666
+#: inc/admin/customizer/customizer-options.php:5006
+#: inc/admin/customizer/customizer-options.php:5022
+msgid "Always"
+msgstr "Immer"
+
+#: inc/admin/customizer/customizer-options.php:4328
+#: inc/admin/customizer/customizer-options.php:4651
+msgid "Desktop ( >= 992px ) "
+msgstr "Desktop (> = 992px) "
+
+#: inc/admin/customizer/customizer-options.php:4329
+#: inc/admin/customizer/customizer-options.php:4652
+#: inc/admin/customizer/customizer-options.php:5008
+msgid "Tablet ( >= 768px )"
+msgstr "Tablet (> = 768px)"
+
+#: inc/admin/customizer/customizer-options.php:4330
+#: inc/admin/customizer/customizer-options.php:4653
+#: inc/admin/customizer/customizer-options.php:5009
+msgid "Phone ( >= 576px )"
+msgstr "Telefon (Smartphone) und größer (>= 576px)"
+
+#: inc/admin/customizer/customizer-options.php:4339
+#: inc/admin/customizer/customizer-options.php:4662
+#: inc/admin/customizer/customizer-options.php:5018
+msgid "Slide Title and Description Font Background Color Visibility (If Set)"
+msgstr ""
+"Hintergrund und Farbe für die Schriftart beim Titel und der Beschreibung des "
+"Sliders (wenn entsprechend eingestellt)"
+
+#: inc/admin/customizer/customizer-options.php:4340
+#: inc/admin/customizer/customizer-options.php:4663
+#: inc/admin/customizer/customizer-options.php:5019
+msgid ""
+"Choose the MAXIMUM screen resolution where the slide title and description "
+"background color will be visible"
+msgstr ""
+"Wählen Sie die maximale Bildschirmauflösung, bei der der Slider-Titel und "
+"die Beschreibungsfarbe sichtbar werden soll"
+
+#: inc/admin/customizer/customizer-options.php:4344
+#: inc/admin/customizer/customizer-options.php:4667
+msgid "Smaller Than Desktop ( <= 992px ) "
+msgstr "Kleiner als Desktop (< = 992px) "
+
+#: inc/admin/customizer/customizer-options.php:4345
+#: inc/admin/customizer/customizer-options.php:4668
+#: inc/admin/customizer/customizer-options.php:5024
+msgid "Tablet And Smaller ( <= 768px )"
+msgstr "Tablet und kleiner (< = 768px)"
+
+#: inc/admin/customizer/customizer-options.php:4346
+#: inc/admin/customizer/customizer-options.php:4669
+#: inc/admin/customizer/customizer-options.php:5025
+msgid "Phone And Smaller ( <= 576px )"
+msgstr "Telefon (Smartphone) und kleiner (< = 576px)"
+
+#: inc/admin/customizer/customizer-options.php:4355
+msgid "Bootstrap Slider Layout"
+msgstr "Bootstrap-Slider-Layout"
+
+#: inc/admin/customizer/customizer-options.php:4364
+msgid "Choose Bootstrap Slider Layout Type"
+msgstr "Wählen Sie den Bootstrap-Slider-Layout-Typ"
+
+#: inc/admin/customizer/customizer-options.php:4365
+msgid "Choose your Bootstrap Slider layout style"
+msgstr "Wählen Sie Ihren Bootstrap-Slider-Layout-Stil"
+
+#: inc/admin/customizer/customizer-options.php:4386
+#: inc/admin/customizer/customizer-options.php:4686
+msgid "Add Slides"
+msgstr ""
+
+#: inc/admin/customizer/customizer-options.php:4395
+#: inc/admin/customizer/customizer-options.php:4695
+#, php-format
+msgid "Enable Slide %d"
+msgstr "Slide %d aktivieren"
+
+#: inc/admin/customizer/customizer-options.php:4396
+#: inc/admin/customizer/customizer-options.php:4696
+#, php-format
+msgid "Enable or Disable Slide %d"
+msgstr "Aktivieren oder deaktivieren Sie den Slider %d"
+
+#: inc/admin/customizer/customizer-options.php:4403
+#, php-format
+msgid "Slide %d Image"
+msgstr "Slide %d Bild"
+
+#: inc/admin/customizer/customizer-options.php:4404
+#: inc/admin/customizer/customizer-options.php:4704
+#, php-format
+msgid "Upload an image for the Slide %d, or specify an image URL directly"
+msgstr ""
+"Laden Sie ein Bild für den Slider %d hoch oder geben Sie eine Bild-URL an"
+
+#: inc/admin/customizer/customizer-options.php:4419
+#, php-format
+msgid "Slide %d Title"
+msgstr "Slide %d Titel"
+
+#: inc/admin/customizer/customizer-options.php:4434
+#, php-format
+msgid "Slide %d Description"
+msgstr "Slide %d Beschreibung"
+
+#: inc/admin/customizer/customizer-options.php:4450
+#, php-format
+msgid "Slide %d Button"
+msgstr "Slide %d Button"
+
+#: inc/admin/customizer/customizer-options.php:4451
+#: inc/admin/customizer/customizer-options.php:4752
+#, php-format
+msgid ""
+"Default: %1$s<a class=\"btn d-none d-sm-inline-block\" href=\"#\">Learn "
+"more</a>%2$s"
+msgstr ""
+"Standard: %1$s<a class=\"btn d-none d-sm-inline-block\" href=\"#\">Mehr "
+"Informationen</a>%2$s"
+
+#: inc/admin/customizer/customizer-options.php:4476
+#: inc/admin/customizer/customizer-options.php:4776
+msgid "Slides"
+msgstr "Slides"
+
+#: inc/admin/customizer/customizer-options.php:4504
+msgid "Enable Parallax Slider"
+msgstr "Parallax aktivieren"
+
+#: inc/admin/customizer/customizer-options.php:4505
+msgid "Check this box if you want to enable Parallax Slider"
+msgstr ""
+"Aktivieren Sie dieses Kontrollkästchen, wenn Sie den Parallax-Slider "
+"aktivieren möchten"
+
+#: inc/admin/customizer/customizer-options.php:4511
+msgid "Enable Parallax Slider On Front Page"
+msgstr ""
+
+#: inc/admin/customizer/customizer-options.php:4512
+msgid "Check this box if you want to enable Parallax Slider On Front Page"
+msgstr ""
+
+#: inc/admin/customizer/customizer-options.php:4521
+msgid "Parallax Slider on All Website"
+msgstr "Parallax-Slider auf der gesamten Website"
+
+#: inc/admin/customizer/customizer-options.php:4522
+msgid "Display Parallax Slider on all website?"
+msgstr "Parallax-Slider auf der gesamten Website anzeigen ?"
+
+#: inc/admin/customizer/customizer-options.php:4531
+msgid "Parallax Speed"
+msgstr "Parallax-Geschwindigkeit"
+
+#: inc/admin/customizer/customizer-options.php:4532
+msgid "Input the time between transitions (Default: 4000)"
+msgstr "Geben Sie die Zeit zwischen den Übergängen ein (Standard: 4000) ein"
+
+#: inc/admin/customizer/customizer-options.php:4544
+msgid "Parallax Slider Title and Description Font"
+msgstr "Schriftart für Titel und Beschreibung des Parallax Slider"
+
+#: inc/admin/customizer/customizer-options.php:4637
+msgid "Parallax Slider Content Responsiveness"
+msgstr "Responsiv-Einstellungen für den Parallax-Slider"
+
+#: inc/admin/customizer/customizer-options.php:4703
+#, php-format
+msgid "Slide %s Image"
+msgstr "Slide %s Image"
+
+#: inc/admin/customizer/customizer-options.php:4719
+#, php-format
+msgid "Slide %s Title"
+msgstr "Slide %s Title"
+
+#: inc/admin/customizer/customizer-options.php:4735
+#, php-format
+msgid "Slide %s Description"
+msgstr "Slide %s Beschreibung"
+
+#: inc/admin/customizer/customizer-options.php:4751
+#, php-format
+msgid "Slide %s Button"
+msgstr "Slide %s Button"
+
+#: inc/admin/customizer/customizer-options.php:4793
+msgid "Enable Posts Slider"
+msgstr "Beitrags-Slider aktivieren"
+
+#: inc/admin/customizer/customizer-options.php:4794
+msgid "Check this box if you want to enable Posts Slider"
+msgstr ""
+"Aktivieren Sie dieses Kontrollkästchen, wenn Sie den Beitrags-Slider "
+"aktivieren möchten"
+
+#: inc/admin/customizer/customizer-options.php:4800
+msgid "Enable Posts Slider On Front Page"
+msgstr ""
+
+#: inc/admin/customizer/customizer-options.php:4801
+msgid "Check this box if you want to enable Posts Slider On Front Page"
+msgstr ""
+
+#: inc/admin/customizer/customizer-options.php:4810
+msgid "Posts Slider on All Website"
+msgstr "Beitrags-Slider auf der gesamten Website"
+
+#: inc/admin/customizer/customizer-options.php:4811
+msgid "Display Posts Slider on all website?"
+msgstr "Soll der Beitrags-Slider auf der gesamten Website angezeigt werden ?"
+
+#: inc/admin/customizer/customizer-options.php:4820
+msgid "Number of Posts to Display"
+msgstr "Anzahl der Beiträge, die angezeigt werden sollen"
+
+#: inc/admin/customizer/customizer-options.php:4838
+msgid "Slideshow Content"
+msgstr "Slideshow-Inhalt"
+
+#: inc/admin/customizer/customizer-options.php:4839
+msgid "Choose to display latest posts or posts of a category"
+msgstr ""
+"Wählen Sie, ob die neuesten Beiträge oder Beiträge einer bestimmten "
+"Kategorie angezeigt werden sollen"
+
+#: inc/admin/customizer/customizer-options.php:4842
+msgid "Recent Posts"
+msgstr "Neueste Beiträge"
+
+#: inc/admin/customizer/customizer-options.php:4843
+msgid "Posts in Category"
+msgstr "Alle Beiträge der Kategorie"
+
+#: inc/admin/customizer/customizer-options.php:4852
+msgid "Category Name(s)"
+msgstr "Kategorienname(n)"
+
+#: inc/admin/customizer/customizer-options.php:4853
+msgid "Select post categories as content for the posts slideshow"
+msgstr "Wählen Sie Beitragskategorien als Inhalt für die Beiträge-Slideshow"
+
+#: inc/admin/customizer/customizer-options.php:4863
+msgid "Slider Speed"
+msgstr "Slider-Geschwindigkeit"
+
+#: inc/admin/customizer/customizer-options.php:4864
+msgid "Input the time between transitions (Default: 3500)"
+msgstr "Geben Sie die Zeit zwischen den Übergängen ein (Standard: 3500) ein"
+
+#: inc/admin/customizer/customizer-options.php:4876
+msgid "Slide Title Max Length"
+msgstr "Maximale Länge des Slidertitels"
+
+#: inc/admin/customizer/customizer-options.php:4877
+msgid "Sets the length of Slide Title. Default is 40"
+msgstr "Legt die Länge für den Slide-Titel fest. Standard ist 40"
+
+#: inc/admin/customizer/customizer-options.php:4888
+msgid "Slide Excerpt Max Length"
+msgstr "Maximale Länge für den Textauszug des Sliders"
+
+#: inc/admin/customizer/customizer-options.php:4889
+msgid "Sets the length of Slide Excerpt. Default is 40"
+msgstr "Legt die Länge für den Slide-Textauszug fest. Standard ist 40"
+
+#: inc/admin/customizer/customizer-options.php:4900
+msgid "Posts Slider Title and Description Font"
+msgstr "Schriftart für Titel und Beschreibung des Beitragssliders"
+
+#: inc/admin/customizer/customizer-options.php:4993
+msgid "Posts Slider Content Responsiveness"
+msgstr "Responsiv-Einstellungen für den Beitrags-Slider"
+
+#: inc/admin/customizer/customizer-options.php:5007
+msgid "Desktop ( >= 992px )"
+msgstr ""
+
+#: inc/admin/customizer/customizer-options.php:5023
+msgid "Smaller Than Desktop ( <= 992px )"
+msgstr ""
+
+#: inc/admin/customizer/customizer-options.php:5042
+msgid "Extra"
+msgstr "Zusatzoption"
+
+#: inc/admin/customizer/customizer-options.php:5047
+msgid "Position of 'Back to Top' Button"
+msgstr "Position des „nach oben“-Button"
+
+#: inc/admin/customizer/customizer-options.php:5053
+msgid "Middle"
+msgstr "Zweitname"
+
+#: inc/admin/customizer/customizer-options.php:5059
+msgid "Enable Edit Post/Page Link on The Front End"
+msgstr "Aktivieren Sie den Beitrags-/Seitenlink im Frontend"
+
+#: inc/admin/customizer/customizer-options.php:5060
+msgid "Check this box if you want to display edit post/page link"
+msgstr ""
+"Aktivieren Sie dieses Kontrollkästchen, wenn Sie den Beitrag oder die Seite "
+"zur Bearbeitung anzeigen möchten"
+
+#: inc/admin/customizer/customizer-options.php:5066
+msgid "Disable Font Awesome"
+msgstr "Font Awesome deaktivieren"
+
+#: inc/admin/customizer/customizer-options.php:5067
+msgid "Check the box to disable Font Awesome"
+msgstr "Aktivieren Sie das Kontrollkästchen, um Font Awesome auszuschalten"
+
+#: inc/admin/customizer/customizer-options.php:5073
+msgid "Disable Font Awesome Conversion From Version 4 to 5"
+msgstr "Konvertierung von Font Awesome von Version 4 auf 5 deaktivieren"
+
+#: inc/admin/customizer/customizer-options.php:5074
+msgid ""
+"Check the box to disable Font Awesome conversion from version 4 to 5 if you "
+"update the icons manually"
+msgstr ""
+"Aktivieren Sie das Kontrollkästchen, um die Konvertierung von Font Awesome "
+"von Version 4 auf 5 zu deaktivieren und Sie die Icons manuell aktualisieren"
+
+#: inc/admin/customizer/customizer-options.php:5096
+msgid "Disable WooCommerce Shop Page Ordering Boxes"
+msgstr "WooCommerce Shop Seite Bestellungsboxen deaktivieren"
+
+#: inc/admin/customizer/customizer-options.php:5097
+msgid "Check the box to disable the ordering boxes displayed on the shop page"
+msgstr ""
+"Aktivieren Sie das Kontrollkästchen, um die Bestellungsboxen, die auf der "
+"Shopseite angezeigt werden, zu deaktivieren"
+
+#: inc/admin/customizer/customizer-options.php:5105
+msgid "Show WooCommerce Order Notes on Checkout"
+msgstr "WooCommerce Bestellhinweise zum Checkout"
+
+#: inc/admin/customizer/customizer-options.php:5106
+msgid "Check the box to show the order notes on the checkout page"
+msgstr ""
+"Aktivieren Sie das Kontrollkästchen, um Bestellungsbedingungen anzuzeigen, "
+"deaktivieren Sie das Kontrollkästchen, um die Option zu deaktivieren"
+
+#: inc/admin/customizer/customizer-options.php:5114
+msgid "Show WooCommerce My Account Link in Header"
+msgstr "WooCommerce mein Konto-Link im Header anzeigen"
+
+#: inc/admin/customizer/customizer-options.php:5115
+msgid "Check the box to show My Account link, uncheck to disable"
+msgstr ""
+"Aktivieren Sie das Kontrollkästchen, um den Konto-Link anzuzeigen, "
+"deaktivieren Sie das Kontrollkästchen, um diese Option zu deaktivieren"
+
+#: inc/admin/customizer/customizer-options.php:5123
+msgid "Show WooCommerce Cart Link in Header"
+msgstr "WooCommerce Warenkorb Link im Header anzeigen"
+
+#: inc/admin/customizer/customizer-options.php:5124
+msgid "Check the box to show the Cart icon, uncheck to disable"
+msgstr ""
+"Aktivieren Sie das Kontrollkästchen, um das Warenkorb-Symbol anzuzeigen, "
+"deaktivieren Sie das Kontrollkästchen, um die Option zu deaktivieren"
+
+#: inc/admin/customizer/customizer-options.php:5132
+msgid "Account Area Message 1"
+msgstr "Konto-Bereich Nachricht 1"
+
+#: inc/admin/customizer/customizer-options.php:5133
+msgid ""
+"Insert your text and it will appear in the first message box on the account "
+"page"
+msgstr ""
+"Fügen Sie Ihren Text ein und es erscheint in der ersten Message-Box auf der "
+"Konto-Seite"
+
+#: inc/admin/customizer/customizer-options.php:5133
+msgid "Insert e.g.: Call us - <i class=\"fa fa-phone\"></i> 7438 882 764"
+msgstr ""
+"Geben Sie z.&nbsp;B. ein: Rufen Sie uns an - <i class=\"fa fa-phone\"></i> "
+"7438 882 764"
+
+#: inc/admin/customizer/customizer-options.php:5140
+msgid "Account Area Message 2"
+msgstr "Konto-Bereich Nachricht 2"
+
+#: inc/admin/customizer/customizer-options.php:5141
+msgid ""
+"Insert your text and it will appear in the second message box on the account "
+"page"
+msgstr ""
+"Fügen Sie Ihren Text ein und es erscheint in der zweiten Message Box auf der "
+"Konto-Seite"
+
+#: inc/admin/customizer/customizer-options.php:5141
+msgid ""
+"Insert e.g.: Email us - <i class=\"fa fa-envelope\"></i> contact@example.com"
+msgstr ""
+"Geben Sie z. B. ein: mailen Sie uns - <i class=\"fa fa-envelope\"></i> "
+"contact@example.com"
+
+#: inc/admin/customizer/customizer.php:117
+msgid "No categories found"
+msgstr "Keine Kategorien gefunden"
+
+#: inc/admin/customizer/customizer.php:122
+#: inc/admin/customizer/customizer.php:135
+msgid "Blog/Page Content (REORDER ONLY)"
+msgstr "Blog/Seiteninhalt (nur neu ordnen)"
+
+#: inc/admin/customizer/customizer.php:127
+#: inc/admin/customizer/customizer.php:140
+msgid "Counter Circles"
+msgstr "Zählerkreise"
+
+#: inc/admin/customizer/customizer.php:186
+#: inc/admin/customizer/customizer.php:216
+#: inc/admin/metaboxes/page-tabs/tab-slider.php:4
+msgid "Default"
+msgstr "Standard"
+
+#: inc/admin/customizer/customizer.php:212
+msgid "All"
+msgstr "Alle"
+
+#: inc/admin/customizer/customizer.php:522
+#: inc/admin/customizer/customizer.php:540
+#: inc/admin/customizer/customizer.php:554
+#: inc/admin/customizer/customizer.php:564
+#: inc/admin/customizer/customizer.php:578
+#: inc/admin/customizer/customizer.php:597
+#: inc/admin/customizer/customizer.php:606
+#: inc/admin/customizer/customizer.php:622
+#: inc/admin/customizer/customizer.php:641
+#: inc/admin/customizer/customizer.php:655
+#: inc/admin/customizer/customizer.php:664
+#: inc/admin/customizer/customizer.php:678
+#: inc/admin/customizer/customizer.php:698
+#: inc/admin/customizer/customizer.php:706
+msgid "Bootstrap Slider (ACTIVE)"
+msgstr "Bootstrap-Slider (aktiv)"
+
+#: inc/admin/customizer/customizer.php:1250
+msgid "Upgrade to premium"
+msgstr ""
+
+#: inc/admin/metaboxes/metaboxes.php:23
+msgid "Post Options"
+msgstr ""
+
+#: inc/admin/metaboxes/metaboxes.php:24
+msgid "Page Options"
+msgstr ""
+
+#: inc/admin/metaboxes/metaboxes.php:25
+msgid "Product Options"
+msgstr ""
+
+#: inc/admin/metaboxes/metaboxes.php:268
+msgid "Upload"
+msgstr ""
+
+#: inc/admin/metaboxes/metaboxes.php:269
+msgid "Remove"
+msgstr "Entfernen"
+
+#: inc/admin/metaboxes/metaboxes.php:278
+msgid "Layout"
+msgstr "Layout"
+
+#: inc/admin/metaboxes/metaboxes.php:281
+msgid "Slider"
+msgstr "Slider"
+
+#: woocommerce/single-product/add-to-cart/variable.php:34
+msgid "This product is currently out of stock and unavailable."
+msgstr "Dieser Artikel ist momentan nicht auf Lager und nicht verfügbar."
+
+#: woocommerce/single-product/add-to-cart/variable.php:52
+msgid "Clear"
+msgstr "Entfernen"
+
+#: woocommerce/single-product/tabs/description.php:15
+msgid "Product description"
+msgstr "Produktbeschreibung"
+
+#: inc/admin/metaboxes/page-tabs/tab-header.php:3
+msgid "Enable Header Widgets"
+msgstr "Header-Widgets aktivieren"
+
+#: inc/admin/metaboxes/page-tabs/tab-header.php:4
+#: inc/admin/metaboxes/page-tabs/tab-layout.php:16
+msgid "No"
+msgstr "Nein"
+
+#: inc/admin/metaboxes/page-tabs/tab-header.php:5
+#: inc/admin/metaboxes/page-tabs/tab-layout.php:17
+msgid "Yes"
+msgstr "Ja"
+
+#: inc/admin/metaboxes/page-tabs/tab-layout.php:5
+msgid "Sidebar Position"
+msgstr "Position Seitenleiste"
+
+#: inc/admin/metaboxes/page-tabs/tab-layout.php:5
+msgid "Use this setting to select and set position of sidebar"
+msgstr "Verwenden Sie diese Einstellung, um die Position der Sidebar zu setzen"
+
+#: inc/admin/metaboxes/page-tabs/tab-layout.php:5
+#, php-format
+msgid ""
+"If \"No Sidebar\" is selected, this layout will follow the settings of "
+"%1$sCustomize -> General -> Select General Layout%2$s"
+msgstr ""
+
+#: inc/admin/metaboxes/page-tabs/tab-layout.php:15
+msgid "Full Width"
+msgstr "Volle Breite"
+
+#: inc/admin/metaboxes/page-tabs/tab-layout.php:15
+#, php-format
+msgid ""
+"If setting Full Width, please set the above Sidebar Position to %1$sNo "
+"Sidebar%2$s"
+msgstr ""
+
+#: inc/admin/metaboxes/page-tabs/tab-pagetitlebar.php:3
+msgid "Page Title"
+msgstr "Seiten Titel"
+
+#: inc/admin/metaboxes/page-tabs/tab-pagetitlebar.php:5
+#: inc/admin/metaboxes/page-tabs/tab-pagetitlebar.php:10
+msgid "Hide"
+msgstr "Ausblenden"
+
+#: inc/admin/metaboxes/page-tabs/tab-pagetitlebar.php:8
+msgid "Page Breadcrumb"
+msgstr "Breadcrumb bei Seiten anzeigen"
+
+#: inc/admin/metaboxes/page-tabs/tab-slider.php:3
+msgid "Slider Position"
+msgstr "Slider-Position"
+
+#: inc/admin/metaboxes/page-tabs/tab-slider.php:3
+msgid ""
+"Select if the slider shows below or above the header. This only works for "
+"the slider assigned in page options, not with shortcodes"
+msgstr ""
+
+#: inc/admin/metaboxes/page-tabs/tab-slider.php:5
+msgid "Below"
+msgstr "Unterhalb"
+
+#: inc/admin/metaboxes/page-tabs/tab-slider.php:6
+msgid "Above"
+msgstr "Über"
+
+#: inc/admin/metaboxes/page-tabs/tab-slider.php:10
+msgid "Slider Type"
+msgstr "Slider-Typ"
+
+#: inc/admin/metaboxes/page-tabs/tab-slider.php:11
+msgid "No Slider"
+msgstr "Kein Slider"
+
+#. Theme Name of the plugin/theme
+msgid "evolve"
+msgstr "evolve"
+
+#. Description of the theme
+msgid ""
+"evolve is an eye-catching and minimal WordPress theme built for web "
+"enthusiasts who like effective yet sweet website. It's based on two solid "
+"frameworks - Twitter Bootstrap and Kirki framework with focus on details and "
+"usability which move this theme to the next level, we are not afraid to say "
+"to PREMIUM one. Standard of this theme is not only settings of many theme "
+"options but its flexibility which let you build any website of your needs - "
+"if it's just a blog, e-shop, magazine or any business page. With the front "
+"page DRAG &amp; DROP builder you can create new beautiful websites within "
+"few minutes. *** IMPORTANT: Please read the CHANGELOG.txt file for any "
+"important changes before you always update the theme! ***"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://theme4press.com/evolve-multipurpose-wordpress-theme/"
+msgstr "http://theme4press.com/evolve-multipurpose-wordpress-theme/"
+
+#. Author of the plugin/theme
+msgid "Theme4Press"
+msgstr "Theme4Press"
+
+#. Author URI of the plugin/theme
+msgid "http://theme4press.com"
+msgstr "http://theme4press.com"

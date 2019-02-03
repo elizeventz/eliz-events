@@ -1,0 +1,25 @@
+			@font-face {
+				font-family: 'opensans-regular';
+				font-style: normal;
+				src: url('/projects/site/wp-content/uploads/useanyfont/190126011840OpenSans-Regular.eot');
+				src: local('opensans-regular'), url('/projects/site/wp-content/uploads/useanyfont/190126011840OpenSans-Regular.eot') format('embedded-opentype'), url('/projects/site/wp-content/uploads/useanyfont/190126011840OpenSans-Regular.woff') format('woff');
+			}
+            
+            .opensans-regular{font-family: 'opensans-regular' !important;}
+            
+						body, .jumbotron{
+					font-family: '' !important;
+				}
+						body, p, blockquote, li, a, #.footer, #social{
+					font-family: '' !important;
+				}
+						body, p, blockquote, li, a{
+					font-family: '' !important;
+				}
+						body, p, blockquote, li{
+					font-family: '' !important;
+				}
+						body, p, blockquote, li, a, .footer{
+					font-family: 'opensans-regular' !important;
+				}
+		
